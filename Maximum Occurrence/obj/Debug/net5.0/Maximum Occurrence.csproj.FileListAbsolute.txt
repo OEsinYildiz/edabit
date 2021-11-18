@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\Maximum Occurrence\bin\Debug\net5.0\Maximum Occurrence.exe
+C:\Users\omere\Desktop\Edabit\Maximum Occurrence\bin\Debug\net5.0\Maximum Occurrence.deps.json
+C:\Users\omere\Desktop\Edabit\Maximum Occurrence\bin\Debug\net5.0\Maximum Occurrence.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Maximum Occurrence\bin\Debug\net5.0\Maximum Occurrence.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Maximum Occurrence\bin\Debug\net5.0\Maximum Occurrence.dll
+C:\Users\omere\Desktop\Edabit\Maximum Occurrence\bin\Debug\net5.0\ref\Maximum Occurrence.dll
+C:\Users\omere\Desktop\Edabit\Maximum Occurrence\bin\Debug\net5.0\Maximum Occurrence.pdb
+C:\Users\omere\Desktop\Edabit\Maximum Occurrence\obj\Debug\net5.0\Maximum Occurrence.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\Maximum Occurrence\obj\Debug\net5.0\Maximum Occurrence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Maximum Occurrence\obj\Debug\net5.0\Maximum Occurrence.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Maximum Occurrence\obj\Debug\net5.0\Maximum Occurrence.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Maximum Occurrence\obj\Debug\net5.0\Maximum Occurrence.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Maximum Occurrence\obj\Debug\net5.0\Maximum Occurrence.dll
+C:\Users\omere\Desktop\Edabit\Maximum Occurrence\obj\Debug\net5.0\ref\Maximum Occurrence.dll
+C:\Users\omere\Desktop\Edabit\Maximum Occurrence\obj\Debug\net5.0\Maximum Occurrence.pdb
+C:\Users\omere\Desktop\Edabit\Maximum Occurrence\obj\Debug\net5.0\Maximum Occurrence.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6U3uXJ2C+MwBH+baINv+TbRWzsdq1YnFvuTCzl9aT6W/+6MAlO4nN8LwvEf6icEoyX+TXyAZMytSe3ugDS8ZfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\OneDrive\\Masaüstü\\Edabit\\Shapes With N Sides\\Shapes With N Sides.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

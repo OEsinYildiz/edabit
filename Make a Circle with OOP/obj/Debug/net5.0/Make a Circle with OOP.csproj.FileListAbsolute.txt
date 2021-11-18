@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\Make a Circle with OOP\bin\Debug\net5.0\Make a Circle with OOP.exe
+C:\Users\omere\Desktop\Edabit\Make a Circle with OOP\bin\Debug\net5.0\Make a Circle with OOP.deps.json
+C:\Users\omere\Desktop\Edabit\Make a Circle with OOP\bin\Debug\net5.0\Make a Circle with OOP.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Make a Circle with OOP\bin\Debug\net5.0\Make a Circle with OOP.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Make a Circle with OOP\bin\Debug\net5.0\Make a Circle with OOP.dll
+C:\Users\omere\Desktop\Edabit\Make a Circle with OOP\bin\Debug\net5.0\ref\Make a Circle with OOP.dll
+C:\Users\omere\Desktop\Edabit\Make a Circle with OOP\bin\Debug\net5.0\Make a Circle with OOP.pdb
+C:\Users\omere\Desktop\Edabit\Make a Circle with OOP\obj\Debug\net5.0\Make a Circle with OOP.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\Make a Circle with OOP\obj\Debug\net5.0\Make a Circle with OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Make a Circle with OOP\obj\Debug\net5.0\Make a Circle with OOP.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Make a Circle with OOP\obj\Debug\net5.0\Make a Circle with OOP.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Make a Circle with OOP\obj\Debug\net5.0\Make a Circle with OOP.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Make a Circle with OOP\obj\Debug\net5.0\Make a Circle with OOP.dll
+C:\Users\omere\Desktop\Edabit\Make a Circle with OOP\obj\Debug\net5.0\ref\Make a Circle with OOP.dll
+C:\Users\omere\Desktop\Edabit\Make a Circle with OOP\obj\Debug\net5.0\Make a Circle with OOP.pdb
+C:\Users\omere\Desktop\Edabit\Make a Circle with OOP\obj\Debug\net5.0\Make a Circle with OOP.genruntimeconfig.cache

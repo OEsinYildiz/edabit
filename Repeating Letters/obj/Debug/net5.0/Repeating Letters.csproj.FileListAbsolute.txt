@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\Repeating Letters\bin\Debug\net5.0\Repeating Letters.exe
+C:\Users\omere\Desktop\Edabit\Repeating Letters\bin\Debug\net5.0\Repeating Letters.deps.json
+C:\Users\omere\Desktop\Edabit\Repeating Letters\bin\Debug\net5.0\Repeating Letters.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Repeating Letters\bin\Debug\net5.0\Repeating Letters.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Repeating Letters\bin\Debug\net5.0\Repeating Letters.dll
+C:\Users\omere\Desktop\Edabit\Repeating Letters\bin\Debug\net5.0\ref\Repeating Letters.dll
+C:\Users\omere\Desktop\Edabit\Repeating Letters\bin\Debug\net5.0\Repeating Letters.pdb
+C:\Users\omere\Desktop\Edabit\Repeating Letters\obj\Debug\net5.0\Repeating Letters.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\Repeating Letters\obj\Debug\net5.0\Repeating Letters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Repeating Letters\obj\Debug\net5.0\Repeating Letters.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Repeating Letters\obj\Debug\net5.0\Repeating Letters.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Repeating Letters\obj\Debug\net5.0\Repeating Letters.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Repeating Letters\obj\Debug\net5.0\Repeating Letters.dll
+C:\Users\omere\Desktop\Edabit\Repeating Letters\obj\Debug\net5.0\ref\Repeating Letters.dll
+C:\Users\omere\Desktop\Edabit\Repeating Letters\obj\Debug\net5.0\Repeating Letters.pdb
+C:\Users\omere\Desktop\Edabit\Repeating Letters\obj\Debug\net5.0\Repeating Letters.genruntimeconfig.cache

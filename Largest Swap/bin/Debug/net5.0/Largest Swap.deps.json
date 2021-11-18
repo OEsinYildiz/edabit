@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Largest Swap/1.0.0": {
+        "runtime": {
+          "Largest Swap.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Largest Swap/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

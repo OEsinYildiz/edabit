@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "How Many D Are There/1.0.0": {
+        "runtime": {
+          "How Many D Are There.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "How Many D Are There/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

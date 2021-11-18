@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\Clear Brackets\bin\Debug\net5.0\Clear Brackets.exe
+C:\Users\omere\Desktop\Edabit\Clear Brackets\bin\Debug\net5.0\Clear Brackets.deps.json
+C:\Users\omere\Desktop\Edabit\Clear Brackets\bin\Debug\net5.0\Clear Brackets.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Clear Brackets\bin\Debug\net5.0\Clear Brackets.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Clear Brackets\bin\Debug\net5.0\Clear Brackets.dll
+C:\Users\omere\Desktop\Edabit\Clear Brackets\bin\Debug\net5.0\ref\Clear Brackets.dll
+C:\Users\omere\Desktop\Edabit\Clear Brackets\bin\Debug\net5.0\Clear Brackets.pdb
+C:\Users\omere\Desktop\Edabit\Clear Brackets\obj\Debug\net5.0\Clear Brackets.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\Clear Brackets\obj\Debug\net5.0\Clear Brackets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Clear Brackets\obj\Debug\net5.0\Clear Brackets.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Clear Brackets\obj\Debug\net5.0\Clear Brackets.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Clear Brackets\obj\Debug\net5.0\Clear Brackets.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Clear Brackets\obj\Debug\net5.0\Clear Brackets.dll
+C:\Users\omere\Desktop\Edabit\Clear Brackets\obj\Debug\net5.0\ref\Clear Brackets.dll
+C:\Users\omere\Desktop\Edabit\Clear Brackets\obj\Debug\net5.0\Clear Brackets.pdb
+C:\Users\omere\Desktop\Edabit\Clear Brackets\obj\Debug\net5.0\Clear Brackets.genruntimeconfig.cache

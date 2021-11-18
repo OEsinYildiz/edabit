@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\Find the nth Tetrahedral Number\bin\Debug\net5.0\Find the nth Tetrahedral Number.exe
+C:\Users\omere\Desktop\Edabit\Find the nth Tetrahedral Number\bin\Debug\net5.0\Find the nth Tetrahedral Number.deps.json
+C:\Users\omere\Desktop\Edabit\Find the nth Tetrahedral Number\bin\Debug\net5.0\Find the nth Tetrahedral Number.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Find the nth Tetrahedral Number\bin\Debug\net5.0\Find the nth Tetrahedral Number.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Find the nth Tetrahedral Number\bin\Debug\net5.0\Find the nth Tetrahedral Number.dll
+C:\Users\omere\Desktop\Edabit\Find the nth Tetrahedral Number\bin\Debug\net5.0\ref\Find the nth Tetrahedral Number.dll
+C:\Users\omere\Desktop\Edabit\Find the nth Tetrahedral Number\bin\Debug\net5.0\Find the nth Tetrahedral Number.pdb
+C:\Users\omere\Desktop\Edabit\Find the nth Tetrahedral Number\obj\Debug\net5.0\Find the nth Tetrahedral Number.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\Find the nth Tetrahedral Number\obj\Debug\net5.0\Find the nth Tetrahedral Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Find the nth Tetrahedral Number\obj\Debug\net5.0\Find the nth Tetrahedral Number.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Find the nth Tetrahedral Number\obj\Debug\net5.0\Find the nth Tetrahedral Number.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Find the nth Tetrahedral Number\obj\Debug\net5.0\Find the nth Tetrahedral Number.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Find the nth Tetrahedral Number\obj\Debug\net5.0\Find the nth Tetrahedral Number.dll
+C:\Users\omere\Desktop\Edabit\Find the nth Tetrahedral Number\obj\Debug\net5.0\ref\Find the nth Tetrahedral Number.dll
+C:\Users\omere\Desktop\Edabit\Find the nth Tetrahedral Number\obj\Debug\net5.0\Find the nth Tetrahedral Number.pdb
+C:\Users\omere\Desktop\Edabit\Find the nth Tetrahedral Number\obj\Debug\net5.0\Find the nth Tetrahedral Number.genruntimeconfig.cache

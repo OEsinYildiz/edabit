@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "l4JX/z+YJb1O+vKM2Kix3SaSTnmaCppit8ojppqPbSoO3AjOygI6IIHEiwSlyZDT1Z9VQh5Sj/eRFRyXVSTs6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\OneDrive\\Masaüstü\\Edabit\\Clear Brackets\\Clear Brackets.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

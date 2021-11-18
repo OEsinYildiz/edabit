@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XM3f+pVEbXijq1zF011oy1E1rI01G8ooVrHPUPds6P5Y5Jci0cPzyYxFqz7r8/5x4bmEy20J9CYB3HocdoUDHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\OneDrive\\Masaüstü\\Edabit\\Maskify the String\\Maskify the String.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

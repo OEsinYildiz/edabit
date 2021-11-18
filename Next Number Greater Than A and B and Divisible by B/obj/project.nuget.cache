@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1lhGbKzXy6bUPsoNv5J08zAEtzT+HfRETJfiPPpQ5vuFXgLJk0HXFGwCwhyaWoN/b8y24EsYYBKzbJAQhZNDEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\OneDrive\\Masaüstü\\Edabit\\Next Number Greater Than A and B and Divisible by B\\Next Number Greater Than A and B and Divisible by B.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

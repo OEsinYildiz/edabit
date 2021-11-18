@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\Phone Number Formatting\bin\Debug\net5.0\Phone Number Formatting.exe
+C:\Users\omere\Desktop\Edabit\Phone Number Formatting\bin\Debug\net5.0\Phone Number Formatting.deps.json
+C:\Users\omere\Desktop\Edabit\Phone Number Formatting\bin\Debug\net5.0\Phone Number Formatting.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Phone Number Formatting\bin\Debug\net5.0\Phone Number Formatting.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Phone Number Formatting\bin\Debug\net5.0\Phone Number Formatting.dll
+C:\Users\omere\Desktop\Edabit\Phone Number Formatting\bin\Debug\net5.0\ref\Phone Number Formatting.dll
+C:\Users\omere\Desktop\Edabit\Phone Number Formatting\bin\Debug\net5.0\Phone Number Formatting.pdb
+C:\Users\omere\Desktop\Edabit\Phone Number Formatting\obj\Debug\net5.0\Phone Number Formatting.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\Phone Number Formatting\obj\Debug\net5.0\Phone Number Formatting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Phone Number Formatting\obj\Debug\net5.0\Phone Number Formatting.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Phone Number Formatting\obj\Debug\net5.0\Phone Number Formatting.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Phone Number Formatting\obj\Debug\net5.0\Phone Number Formatting.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Phone Number Formatting\obj\Debug\net5.0\Phone Number Formatting.dll
+C:\Users\omere\Desktop\Edabit\Phone Number Formatting\obj\Debug\net5.0\ref\Phone Number Formatting.dll
+C:\Users\omere\Desktop\Edabit\Phone Number Formatting\obj\Debug\net5.0\Phone Number Formatting.pdb
+C:\Users\omere\Desktop\Edabit\Phone Number Formatting\obj\Debug\net5.0\Phone Number Formatting.genruntimeconfig.cache

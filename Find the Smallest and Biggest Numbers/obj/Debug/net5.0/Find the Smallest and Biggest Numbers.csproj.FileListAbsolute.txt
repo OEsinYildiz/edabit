@@ -1,0 +1,15 @@
+C:\Users\omere\Desktop\Edabit\Find the Smallest and Biggest Numbers\bin\Debug\net5.0\Find the Smallest and Biggest Numbers.exe
+C:\Users\omere\Desktop\Edabit\Find the Smallest and Biggest Numbers\bin\Debug\net5.0\Find the Smallest and Biggest Numbers.deps.json
+C:\Users\omere\Desktop\Edabit\Find the Smallest and Biggest Numbers\bin\Debug\net5.0\Find the Smallest and Biggest Numbers.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Find the Smallest and Biggest Numbers\bin\Debug\net5.0\Find the Smallest and Biggest Numbers.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Find the Smallest and Biggest Numbers\bin\Debug\net5.0\Find the Smallest and Biggest Numbers.dll
+C:\Users\omere\Desktop\Edabit\Find the Smallest and Biggest Numbers\bin\Debug\net5.0\ref\Find the Smallest and Biggest Numbers.dll
+C:\Users\omere\Desktop\Edabit\Find the Smallest and Biggest Numbers\bin\Debug\net5.0\Find the Smallest and Biggest Numbers.pdb
+C:\Users\omere\Desktop\Edabit\Find the Smallest and Biggest Numbers\obj\Debug\net5.0\Find the Smallest and Biggest Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Find the Smallest and Biggest Numbers\obj\Debug\net5.0\Find the Smallest and Biggest Numbers.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Find the Smallest and Biggest Numbers\obj\Debug\net5.0\Find the Smallest and Biggest Numbers.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Find the Smallest and Biggest Numbers\obj\Debug\net5.0\Find the Smallest and Biggest Numbers.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Find the Smallest and Biggest Numbers\obj\Debug\net5.0\Find the Smallest and Biggest Numbers.dll
+C:\Users\omere\Desktop\Edabit\Find the Smallest and Biggest Numbers\obj\Debug\net5.0\ref\Find the Smallest and Biggest Numbers.dll
+C:\Users\omere\Desktop\Edabit\Find the Smallest and Biggest Numbers\obj\Debug\net5.0\Find the Smallest and Biggest Numbers.pdb
+C:\Users\omere\Desktop\Edabit\Find the Smallest and Biggest Numbers\obj\Debug\net5.0\Find the Smallest and Biggest Numbers.genruntimeconfig.cache

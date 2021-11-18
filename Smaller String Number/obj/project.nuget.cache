@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TjnngxD6AeUK3XZOgVhTnhWi0x2jVpfi6RBTZ7Nb4LRfDv4rIa23WP3BQGRVxbigoU1TGxrdVaSrxqhiLCfb4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\OneDrive\\Masaüstü\\Edabit\\Smaller String Number\\Smaller String Number.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

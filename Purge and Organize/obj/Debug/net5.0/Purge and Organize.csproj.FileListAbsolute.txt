@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\Purge and Organize\bin\Debug\net5.0\Purge and Organize.exe
+C:\Users\omere\Desktop\Edabit\Purge and Organize\bin\Debug\net5.0\Purge and Organize.deps.json
+C:\Users\omere\Desktop\Edabit\Purge and Organize\bin\Debug\net5.0\Purge and Organize.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Purge and Organize\bin\Debug\net5.0\Purge and Organize.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Purge and Organize\bin\Debug\net5.0\Purge and Organize.dll
+C:\Users\omere\Desktop\Edabit\Purge and Organize\bin\Debug\net5.0\ref\Purge and Organize.dll
+C:\Users\omere\Desktop\Edabit\Purge and Organize\bin\Debug\net5.0\Purge and Organize.pdb
+C:\Users\omere\Desktop\Edabit\Purge and Organize\obj\Debug\net5.0\Purge and Organize.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\Purge and Organize\obj\Debug\net5.0\Purge and Organize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Purge and Organize\obj\Debug\net5.0\Purge and Organize.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Purge and Organize\obj\Debug\net5.0\Purge and Organize.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Purge and Organize\obj\Debug\net5.0\Purge and Organize.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Purge and Organize\obj\Debug\net5.0\Purge and Organize.dll
+C:\Users\omere\Desktop\Edabit\Purge and Organize\obj\Debug\net5.0\ref\Purge and Organize.dll
+C:\Users\omere\Desktop\Edabit\Purge and Organize\obj\Debug\net5.0\Purge and Organize.pdb
+C:\Users\omere\Desktop\Edabit\Purge and Organize\obj\Debug\net5.0\Purge and Organize.genruntimeconfig.cache

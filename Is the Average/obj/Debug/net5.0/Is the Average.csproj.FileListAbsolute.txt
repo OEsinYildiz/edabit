@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\Is the Average\bin\Debug\net5.0\Is the Average.exe
+C:\Users\omere\Desktop\Edabit\Is the Average\bin\Debug\net5.0\Is the Average.deps.json
+C:\Users\omere\Desktop\Edabit\Is the Average\bin\Debug\net5.0\Is the Average.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Is the Average\bin\Debug\net5.0\Is the Average.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Is the Average\bin\Debug\net5.0\Is the Average.dll
+C:\Users\omere\Desktop\Edabit\Is the Average\bin\Debug\net5.0\ref\Is the Average.dll
+C:\Users\omere\Desktop\Edabit\Is the Average\bin\Debug\net5.0\Is the Average.pdb
+C:\Users\omere\Desktop\Edabit\Is the Average\obj\Debug\net5.0\Is the Average.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\Is the Average\obj\Debug\net5.0\Is the Average.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Is the Average\obj\Debug\net5.0\Is the Average.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Is the Average\obj\Debug\net5.0\Is the Average.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Is the Average\obj\Debug\net5.0\Is the Average.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Is the Average\obj\Debug\net5.0\Is the Average.dll
+C:\Users\omere\Desktop\Edabit\Is the Average\obj\Debug\net5.0\ref\Is the Average.dll
+C:\Users\omere\Desktop\Edabit\Is the Average\obj\Debug\net5.0\Is the Average.pdb
+C:\Users\omere\Desktop\Edabit\Is the Average\obj\Debug\net5.0\Is the Average.genruntimeconfig.cache

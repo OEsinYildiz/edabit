@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xq5Mk9EvWstwrj5buyYs/v2U81T/y7YMthKoSb0fmT5s5ON84HMH+2yKXQB3xa6SpxAwpzoXCfpgZ3qhWgzE/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\OneDrive\\Masaüstü\\Edabit\\Find the Bomb\\Find the Bomb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "46o4I2inC0m12ClDv/pjhJ5BPY984I9paqG4vlcanvi2GzhI7WqdeNNsn9e6xzu046T7a2hkGXczb8wWxUTRMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\OneDrive\\Masaüstü\\Edabit\\Reverse Coding Challenge\\Reverse Coding Challenge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

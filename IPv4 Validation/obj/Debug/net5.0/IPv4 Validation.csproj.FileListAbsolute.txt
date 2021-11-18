@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\IPv4 Validation\bin\Debug\net5.0\IPv4 Validation.exe
+C:\Users\omere\Desktop\Edabit\IPv4 Validation\bin\Debug\net5.0\IPv4 Validation.deps.json
+C:\Users\omere\Desktop\Edabit\IPv4 Validation\bin\Debug\net5.0\IPv4 Validation.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\IPv4 Validation\bin\Debug\net5.0\IPv4 Validation.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\IPv4 Validation\bin\Debug\net5.0\IPv4 Validation.dll
+C:\Users\omere\Desktop\Edabit\IPv4 Validation\bin\Debug\net5.0\ref\IPv4 Validation.dll
+C:\Users\omere\Desktop\Edabit\IPv4 Validation\bin\Debug\net5.0\IPv4 Validation.pdb
+C:\Users\omere\Desktop\Edabit\IPv4 Validation\obj\Debug\net5.0\IPv4 Validation.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\IPv4 Validation\obj\Debug\net5.0\IPv4 Validation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\IPv4 Validation\obj\Debug\net5.0\IPv4 Validation.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\IPv4 Validation\obj\Debug\net5.0\IPv4 Validation.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\IPv4 Validation\obj\Debug\net5.0\IPv4 Validation.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\IPv4 Validation\obj\Debug\net5.0\IPv4 Validation.dll
+C:\Users\omere\Desktop\Edabit\IPv4 Validation\obj\Debug\net5.0\ref\IPv4 Validation.dll
+C:\Users\omere\Desktop\Edabit\IPv4 Validation\obj\Debug\net5.0\IPv4 Validation.pdb
+C:\Users\omere\Desktop\Edabit\IPv4 Validation\obj\Debug\net5.0\IPv4 Validation.genruntimeconfig.cache

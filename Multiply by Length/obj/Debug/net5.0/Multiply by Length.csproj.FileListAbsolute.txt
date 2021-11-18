@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\Multiply by Length\bin\Debug\net5.0\Multiply by Length.exe
+C:\Users\omere\Desktop\Edabit\Multiply by Length\bin\Debug\net5.0\Multiply by Length.deps.json
+C:\Users\omere\Desktop\Edabit\Multiply by Length\bin\Debug\net5.0\Multiply by Length.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Multiply by Length\bin\Debug\net5.0\Multiply by Length.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Multiply by Length\bin\Debug\net5.0\Multiply by Length.dll
+C:\Users\omere\Desktop\Edabit\Multiply by Length\bin\Debug\net5.0\ref\Multiply by Length.dll
+C:\Users\omere\Desktop\Edabit\Multiply by Length\bin\Debug\net5.0\Multiply by Length.pdb
+C:\Users\omere\Desktop\Edabit\Multiply by Length\obj\Debug\net5.0\Multiply by Length.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\Multiply by Length\obj\Debug\net5.0\Multiply by Length.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Multiply by Length\obj\Debug\net5.0\Multiply by Length.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Multiply by Length\obj\Debug\net5.0\Multiply by Length.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Multiply by Length\obj\Debug\net5.0\Multiply by Length.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Multiply by Length\obj\Debug\net5.0\Multiply by Length.dll
+C:\Users\omere\Desktop\Edabit\Multiply by Length\obj\Debug\net5.0\ref\Multiply by Length.dll
+C:\Users\omere\Desktop\Edabit\Multiply by Length\obj\Debug\net5.0\Multiply by Length.pdb
+C:\Users\omere\Desktop\Edabit\Multiply by Length\obj\Debug\net5.0\Multiply by Length.genruntimeconfig.cache

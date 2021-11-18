@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XsuYaOv4NrrNLHT+R5OhELxUe051HgRkElO/HmnHN+ZvYM7MSpcX/MfCEMGi3Rl/9Y0hIoUGiTEjcKmYiGLa8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\OneDrive\\Masaüstü\\Edabit\\Challenge-2\\Challenge-2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

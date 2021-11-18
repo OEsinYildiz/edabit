@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\Uncensor\bin\Debug\net5.0\Uncensor.exe
+C:\Users\omere\Desktop\Edabit\Uncensor\bin\Debug\net5.0\Uncensor.deps.json
+C:\Users\omere\Desktop\Edabit\Uncensor\bin\Debug\net5.0\Uncensor.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Uncensor\bin\Debug\net5.0\Uncensor.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Uncensor\bin\Debug\net5.0\Uncensor.dll
+C:\Users\omere\Desktop\Edabit\Uncensor\bin\Debug\net5.0\ref\Uncensor.dll
+C:\Users\omere\Desktop\Edabit\Uncensor\bin\Debug\net5.0\Uncensor.pdb
+C:\Users\omere\Desktop\Edabit\Uncensor\obj\Debug\net5.0\Uncensor.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\Uncensor\obj\Debug\net5.0\Uncensor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Uncensor\obj\Debug\net5.0\Uncensor.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Uncensor\obj\Debug\net5.0\Uncensor.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Uncensor\obj\Debug\net5.0\Uncensor.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Uncensor\obj\Debug\net5.0\Uncensor.dll
+C:\Users\omere\Desktop\Edabit\Uncensor\obj\Debug\net5.0\ref\Uncensor.dll
+C:\Users\omere\Desktop\Edabit\Uncensor\obj\Debug\net5.0\Uncensor.pdb
+C:\Users\omere\Desktop\Edabit\Uncensor\obj\Debug\net5.0\Uncensor.genruntimeconfig.cache

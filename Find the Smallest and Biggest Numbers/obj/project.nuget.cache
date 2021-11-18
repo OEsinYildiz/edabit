@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/l2aTMu5k7Q49sqpoBb6tTBXyvQrB+GsZieiZ/qoJK6CCSSKjpwchZ1DQ8BavhZmP2VeVwTIVcd4Khq2suGroQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\OneDrive\\Masaüstü\\Edabit\\Find the Smallest and Biggest Numbers\\Find the Smallest and Biggest Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

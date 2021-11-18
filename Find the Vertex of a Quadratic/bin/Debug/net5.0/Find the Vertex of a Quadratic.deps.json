@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Find the Vertex of a Quadratic/1.0.0": {
+        "runtime": {
+          "Find the Vertex of a Quadratic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Find the Vertex of a Quadratic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

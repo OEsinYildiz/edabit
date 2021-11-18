@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\Find the Missing Number\bin\Debug\net5.0\Find the Missing Number.exe
+C:\Users\omere\Desktop\Edabit\Find the Missing Number\bin\Debug\net5.0\Find the Missing Number.deps.json
+C:\Users\omere\Desktop\Edabit\Find the Missing Number\bin\Debug\net5.0\Find the Missing Number.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Find the Missing Number\bin\Debug\net5.0\Find the Missing Number.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Find the Missing Number\bin\Debug\net5.0\Find the Missing Number.dll
+C:\Users\omere\Desktop\Edabit\Find the Missing Number\bin\Debug\net5.0\ref\Find the Missing Number.dll
+C:\Users\omere\Desktop\Edabit\Find the Missing Number\bin\Debug\net5.0\Find the Missing Number.pdb
+C:\Users\omere\Desktop\Edabit\Find the Missing Number\obj\Debug\net5.0\Find the Missing Number.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\Find the Missing Number\obj\Debug\net5.0\Find the Missing Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Find the Missing Number\obj\Debug\net5.0\Find the Missing Number.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Find the Missing Number\obj\Debug\net5.0\Find the Missing Number.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Find the Missing Number\obj\Debug\net5.0\Find the Missing Number.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Find the Missing Number\obj\Debug\net5.0\Find the Missing Number.dll
+C:\Users\omere\Desktop\Edabit\Find the Missing Number\obj\Debug\net5.0\ref\Find the Missing Number.dll
+C:\Users\omere\Desktop\Edabit\Find the Missing Number\obj\Debug\net5.0\Find the Missing Number.pdb
+C:\Users\omere\Desktop\Edabit\Find the Missing Number\obj\Debug\net5.0\Find the Missing Number.genruntimeconfig.cache

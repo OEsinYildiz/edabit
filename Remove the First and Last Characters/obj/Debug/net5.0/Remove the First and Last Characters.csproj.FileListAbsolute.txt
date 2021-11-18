@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\Remove the First and Last Characters\bin\Debug\net5.0\Remove the First and Last Characters.exe
+C:\Users\omere\Desktop\Edabit\Remove the First and Last Characters\bin\Debug\net5.0\Remove the First and Last Characters.deps.json
+C:\Users\omere\Desktop\Edabit\Remove the First and Last Characters\bin\Debug\net5.0\Remove the First and Last Characters.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Remove the First and Last Characters\bin\Debug\net5.0\Remove the First and Last Characters.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Remove the First and Last Characters\bin\Debug\net5.0\Remove the First and Last Characters.dll
+C:\Users\omere\Desktop\Edabit\Remove the First and Last Characters\bin\Debug\net5.0\ref\Remove the First and Last Characters.dll
+C:\Users\omere\Desktop\Edabit\Remove the First and Last Characters\bin\Debug\net5.0\Remove the First and Last Characters.pdb
+C:\Users\omere\Desktop\Edabit\Remove the First and Last Characters\obj\Debug\net5.0\Remove the First and Last Characters.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\Remove the First and Last Characters\obj\Debug\net5.0\Remove the First and Last Characters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Remove the First and Last Characters\obj\Debug\net5.0\Remove the First and Last Characters.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Remove the First and Last Characters\obj\Debug\net5.0\Remove the First and Last Characters.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Remove the First and Last Characters\obj\Debug\net5.0\Remove the First and Last Characters.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Remove the First and Last Characters\obj\Debug\net5.0\Remove the First and Last Characters.dll
+C:\Users\omere\Desktop\Edabit\Remove the First and Last Characters\obj\Debug\net5.0\ref\Remove the First and Last Characters.dll
+C:\Users\omere\Desktop\Edabit\Remove the First and Last Characters\obj\Debug\net5.0\Remove the First and Last Characters.pdb
+C:\Users\omere\Desktop\Edabit\Remove the First and Last Characters\obj\Debug\net5.0\Remove the First and Last Characters.genruntimeconfig.cache

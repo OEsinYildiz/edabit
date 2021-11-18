@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\A Circle and Two Squares\bin\Debug\net5.0\A Circle and Two Squares.exe
+C:\Users\omere\Desktop\Edabit\A Circle and Two Squares\bin\Debug\net5.0\A Circle and Two Squares.deps.json
+C:\Users\omere\Desktop\Edabit\A Circle and Two Squares\bin\Debug\net5.0\A Circle and Two Squares.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\A Circle and Two Squares\bin\Debug\net5.0\A Circle and Two Squares.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\A Circle and Two Squares\bin\Debug\net5.0\A Circle and Two Squares.dll
+C:\Users\omere\Desktop\Edabit\A Circle and Two Squares\bin\Debug\net5.0\ref\A Circle and Two Squares.dll
+C:\Users\omere\Desktop\Edabit\A Circle and Two Squares\bin\Debug\net5.0\A Circle and Two Squares.pdb
+C:\Users\omere\Desktop\Edabit\A Circle and Two Squares\obj\Debug\net5.0\A Circle and Two Squares.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\A Circle and Two Squares\obj\Debug\net5.0\A Circle and Two Squares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\A Circle and Two Squares\obj\Debug\net5.0\A Circle and Two Squares.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\A Circle and Two Squares\obj\Debug\net5.0\A Circle and Two Squares.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\A Circle and Two Squares\obj\Debug\net5.0\A Circle and Two Squares.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\A Circle and Two Squares\obj\Debug\net5.0\A Circle and Two Squares.dll
+C:\Users\omere\Desktop\Edabit\A Circle and Two Squares\obj\Debug\net5.0\ref\A Circle and Two Squares.dll
+C:\Users\omere\Desktop\Edabit\A Circle and Two Squares\obj\Debug\net5.0\A Circle and Two Squares.pdb
+C:\Users\omere\Desktop\Edabit\A Circle and Two Squares\obj\Debug\net5.0\A Circle and Two Squares.genruntimeconfig.cache

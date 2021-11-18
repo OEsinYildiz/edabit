@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AXH8gSz57MUxjORmQRd6JC4VAGkHmXgATHGZimRdXmDLlLKthE4r64bBSg9oHi7BJi9EIFCs6yqKJOVod9OU9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\OneDrive\\Masaüstü\\Edabit\\Shuffle the Name\\Shuffle the Name.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

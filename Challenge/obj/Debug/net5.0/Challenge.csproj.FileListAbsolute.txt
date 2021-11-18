@@ -1,0 +1,5 @@
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Challenge\obj\Debug\net5.0\Challenge.csprojAssemblyReference.cache
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Challenge\obj\Debug\net5.0\Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Challenge\obj\Debug\net5.0\Challenge.AssemblyInfoInputs.cache
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Challenge\obj\Debug\net5.0\Challenge.AssemblyInfo.cs
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Challenge\obj\Debug\net5.0\Challenge.csproj.CoreCompileInputs.cache

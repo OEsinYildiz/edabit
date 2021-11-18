@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\Crack the Code\bin\Debug\net5.0\Crack the Code.exe
+C:\Users\omere\Desktop\Edabit\Crack the Code\bin\Debug\net5.0\Crack the Code.deps.json
+C:\Users\omere\Desktop\Edabit\Crack the Code\bin\Debug\net5.0\Crack the Code.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Crack the Code\bin\Debug\net5.0\Crack the Code.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Crack the Code\bin\Debug\net5.0\Crack the Code.dll
+C:\Users\omere\Desktop\Edabit\Crack the Code\bin\Debug\net5.0\ref\Crack the Code.dll
+C:\Users\omere\Desktop\Edabit\Crack the Code\bin\Debug\net5.0\Crack the Code.pdb
+C:\Users\omere\Desktop\Edabit\Crack the Code\obj\Debug\net5.0\Crack the Code.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\Crack the Code\obj\Debug\net5.0\Crack the Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Crack the Code\obj\Debug\net5.0\Crack the Code.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Crack the Code\obj\Debug\net5.0\Crack the Code.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Crack the Code\obj\Debug\net5.0\Crack the Code.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Crack the Code\obj\Debug\net5.0\Crack the Code.dll
+C:\Users\omere\Desktop\Edabit\Crack the Code\obj\Debug\net5.0\ref\Crack the Code.dll
+C:\Users\omere\Desktop\Edabit\Crack the Code\obj\Debug\net5.0\Crack the Code.pdb
+C:\Users\omere\Desktop\Edabit\Crack the Code\obj\Debug\net5.0\Crack the Code.genruntimeconfig.cache

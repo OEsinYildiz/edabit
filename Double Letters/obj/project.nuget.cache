@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lq3UyHsziw8QcJFP411XC6Z4C9WFF7Cm+I9tR0JOeyc9lrzGMF+FbD6++GDskMygUFEb2MB+Rf57Ta/4nN+ebw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\OneDrive\\Masaüstü\\Edabit\\Double Letters\\Double Letters.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

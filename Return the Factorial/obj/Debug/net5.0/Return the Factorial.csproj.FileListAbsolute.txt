@@ -1,0 +1,32 @@
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Return the Factorial\bin\Debug\net5.0\Return the Factorial.exe
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Return the Factorial\bin\Debug\net5.0\Return the Factorial.deps.json
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Return the Factorial\bin\Debug\net5.0\Return the Factorial.runtimeconfig.json
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Return the Factorial\bin\Debug\net5.0\Return the Factorial.runtimeconfig.dev.json
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Return the Factorial\bin\Debug\net5.0\Return the Factorial.dll
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Return the Factorial\bin\Debug\net5.0\ref\Return the Factorial.dll
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Return the Factorial\bin\Debug\net5.0\Return the Factorial.pdb
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Return the Factorial\obj\Debug\net5.0\Return the Factorial.csprojAssemblyReference.cache
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Return the Factorial\obj\Debug\net5.0\Return the Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Return the Factorial\obj\Debug\net5.0\Return the Factorial.AssemblyInfoInputs.cache
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Return the Factorial\obj\Debug\net5.0\Return the Factorial.AssemblyInfo.cs
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Return the Factorial\obj\Debug\net5.0\Return the Factorial.csproj.CoreCompileInputs.cache
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Return the Factorial\obj\Debug\net5.0\Return the Factorial.dll
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Return the Factorial\obj\Debug\net5.0\ref\Return the Factorial.dll
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Return the Factorial\obj\Debug\net5.0\Return the Factorial.pdb
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Return the Factorial\obj\Debug\net5.0\Return the Factorial.genruntimeconfig.cache
+C:\Users\omere\Desktop\Edabit\Return the Factorial\bin\Debug\net5.0\Return the Factorial.exe
+C:\Users\omere\Desktop\Edabit\Return the Factorial\bin\Debug\net5.0\Return the Factorial.deps.json
+C:\Users\omere\Desktop\Edabit\Return the Factorial\bin\Debug\net5.0\Return the Factorial.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Return the Factorial\bin\Debug\net5.0\Return the Factorial.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Return the Factorial\bin\Debug\net5.0\Return the Factorial.dll
+C:\Users\omere\Desktop\Edabit\Return the Factorial\bin\Debug\net5.0\ref\Return the Factorial.dll
+C:\Users\omere\Desktop\Edabit\Return the Factorial\bin\Debug\net5.0\Return the Factorial.pdb
+C:\Users\omere\Desktop\Edabit\Return the Factorial\obj\Debug\net5.0\Return the Factorial.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\Return the Factorial\obj\Debug\net5.0\Return the Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Return the Factorial\obj\Debug\net5.0\Return the Factorial.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Return the Factorial\obj\Debug\net5.0\Return the Factorial.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Return the Factorial\obj\Debug\net5.0\Return the Factorial.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Return the Factorial\obj\Debug\net5.0\Return the Factorial.dll
+C:\Users\omere\Desktop\Edabit\Return the Factorial\obj\Debug\net5.0\ref\Return the Factorial.dll
+C:\Users\omere\Desktop\Edabit\Return the Factorial\obj\Debug\net5.0\Return the Factorial.pdb
+C:\Users\omere\Desktop\Edabit\Return the Factorial\obj\Debug\net5.0\Return the Factorial.genruntimeconfig.cache

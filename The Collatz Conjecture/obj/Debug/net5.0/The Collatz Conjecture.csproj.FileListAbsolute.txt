@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\The Collatz Conjecture\bin\Debug\net5.0\The Collatz Conjecture.exe
+C:\Users\omere\Desktop\Edabit\The Collatz Conjecture\bin\Debug\net5.0\The Collatz Conjecture.deps.json
+C:\Users\omere\Desktop\Edabit\The Collatz Conjecture\bin\Debug\net5.0\The Collatz Conjecture.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\The Collatz Conjecture\bin\Debug\net5.0\The Collatz Conjecture.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\The Collatz Conjecture\bin\Debug\net5.0\The Collatz Conjecture.dll
+C:\Users\omere\Desktop\Edabit\The Collatz Conjecture\bin\Debug\net5.0\ref\The Collatz Conjecture.dll
+C:\Users\omere\Desktop\Edabit\The Collatz Conjecture\bin\Debug\net5.0\The Collatz Conjecture.pdb
+C:\Users\omere\Desktop\Edabit\The Collatz Conjecture\obj\Debug\net5.0\The Collatz Conjecture.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\The Collatz Conjecture\obj\Debug\net5.0\The Collatz Conjecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\The Collatz Conjecture\obj\Debug\net5.0\The Collatz Conjecture.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\The Collatz Conjecture\obj\Debug\net5.0\The Collatz Conjecture.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\The Collatz Conjecture\obj\Debug\net5.0\The Collatz Conjecture.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\The Collatz Conjecture\obj\Debug\net5.0\The Collatz Conjecture.dll
+C:\Users\omere\Desktop\Edabit\The Collatz Conjecture\obj\Debug\net5.0\ref\The Collatz Conjecture.dll
+C:\Users\omere\Desktop\Edabit\The Collatz Conjecture\obj\Debug\net5.0\The Collatz Conjecture.pdb
+C:\Users\omere\Desktop\Edabit\The Collatz Conjecture\obj\Debug\net5.0\The Collatz Conjecture.genruntimeconfig.cache

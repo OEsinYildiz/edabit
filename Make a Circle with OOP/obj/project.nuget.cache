@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TOdUm2j2iOyfCTe5wuD4PsxlYUexrYFafXiV9uf9HlDIC4wC0UqCJ/5+SZiBIKa/AQbo5nSffFOvWUOauiamIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\OneDrive\\Masaüstü\\Edabit\\Make a Circle with OOP\\Make a Circle with OOP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

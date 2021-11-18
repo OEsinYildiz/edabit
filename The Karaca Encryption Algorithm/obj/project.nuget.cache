@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UAdvn/zC7NPVpAdpzPFT4CKcNP6Xy6/nhCeDImpA9nERoPaZBk7axT8//Z19/SC3d6eY22/f30Wg2EBlSOnYLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\OneDrive\\Masaüstü\\Edabit\\The Karaca Encryption Algorithm\\The Karaca Encryption Algorithm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

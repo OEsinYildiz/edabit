@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EPW6XsaZ3eDsDV3klte8DJJp181+v6QxJEFPYXNxOgQhlQzuw6v7NT6M3wfyxmHjnveisQOO0IM9YL7knYVtHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\OneDrive\\Masaüstü\\Edabit\\Remove the First and Last Characters\\Remove the First and Last Characters.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\To the Power of\bin\Debug\net5.0\To the Power of.exe
+C:\Users\omere\Desktop\Edabit\To the Power of\bin\Debug\net5.0\To the Power of.deps.json
+C:\Users\omere\Desktop\Edabit\To the Power of\bin\Debug\net5.0\To the Power of.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\To the Power of\bin\Debug\net5.0\To the Power of.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\To the Power of\bin\Debug\net5.0\To the Power of.dll
+C:\Users\omere\Desktop\Edabit\To the Power of\bin\Debug\net5.0\ref\To the Power of.dll
+C:\Users\omere\Desktop\Edabit\To the Power of\bin\Debug\net5.0\To the Power of.pdb
+C:\Users\omere\Desktop\Edabit\To the Power of\obj\Debug\net5.0\To the Power of.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\To the Power of\obj\Debug\net5.0\To the Power of.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\To the Power of\obj\Debug\net5.0\To the Power of.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\To the Power of\obj\Debug\net5.0\To the Power of.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\To the Power of\obj\Debug\net5.0\To the Power of.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\To the Power of\obj\Debug\net5.0\To the Power of.dll
+C:\Users\omere\Desktop\Edabit\To the Power of\obj\Debug\net5.0\ref\To the Power of.dll
+C:\Users\omere\Desktop\Edabit\To the Power of\obj\Debug\net5.0\To the Power of.pdb
+C:\Users\omere\Desktop\Edabit\To the Power of\obj\Debug\net5.0\To the Power of.genruntimeconfig.cache

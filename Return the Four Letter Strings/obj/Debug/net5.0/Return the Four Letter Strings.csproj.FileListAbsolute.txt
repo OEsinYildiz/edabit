@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\Return the Four Letter Strings\bin\Debug\net5.0\Return the Four Letter Strings.exe
+C:\Users\omere\Desktop\Edabit\Return the Four Letter Strings\bin\Debug\net5.0\Return the Four Letter Strings.deps.json
+C:\Users\omere\Desktop\Edabit\Return the Four Letter Strings\bin\Debug\net5.0\Return the Four Letter Strings.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Return the Four Letter Strings\bin\Debug\net5.0\Return the Four Letter Strings.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Return the Four Letter Strings\bin\Debug\net5.0\Return the Four Letter Strings.dll
+C:\Users\omere\Desktop\Edabit\Return the Four Letter Strings\bin\Debug\net5.0\ref\Return the Four Letter Strings.dll
+C:\Users\omere\Desktop\Edabit\Return the Four Letter Strings\bin\Debug\net5.0\Return the Four Letter Strings.pdb
+C:\Users\omere\Desktop\Edabit\Return the Four Letter Strings\obj\Debug\net5.0\Return the Four Letter Strings.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\Return the Four Letter Strings\obj\Debug\net5.0\Return the Four Letter Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Return the Four Letter Strings\obj\Debug\net5.0\Return the Four Letter Strings.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Return the Four Letter Strings\obj\Debug\net5.0\Return the Four Letter Strings.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Return the Four Letter Strings\obj\Debug\net5.0\Return the Four Letter Strings.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Return the Four Letter Strings\obj\Debug\net5.0\Return the Four Letter Strings.dll
+C:\Users\omere\Desktop\Edabit\Return the Four Letter Strings\obj\Debug\net5.0\ref\Return the Four Letter Strings.dll
+C:\Users\omere\Desktop\Edabit\Return the Four Letter Strings\obj\Debug\net5.0\Return the Four Letter Strings.pdb
+C:\Users\omere\Desktop\Edabit\Return the Four Letter Strings\obj\Debug\net5.0\Return the Four Letter Strings.genruntimeconfig.cache

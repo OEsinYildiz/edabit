@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\Power Ranger\bin\Debug\net5.0\Power Ranger.exe
+C:\Users\omere\Desktop\Edabit\Power Ranger\bin\Debug\net5.0\Power Ranger.deps.json
+C:\Users\omere\Desktop\Edabit\Power Ranger\bin\Debug\net5.0\Power Ranger.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Power Ranger\bin\Debug\net5.0\Power Ranger.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Power Ranger\bin\Debug\net5.0\Power Ranger.dll
+C:\Users\omere\Desktop\Edabit\Power Ranger\bin\Debug\net5.0\ref\Power Ranger.dll
+C:\Users\omere\Desktop\Edabit\Power Ranger\bin\Debug\net5.0\Power Ranger.pdb
+C:\Users\omere\Desktop\Edabit\Power Ranger\obj\Debug\net5.0\Power Ranger.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\Power Ranger\obj\Debug\net5.0\Power Ranger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Power Ranger\obj\Debug\net5.0\Power Ranger.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Power Ranger\obj\Debug\net5.0\Power Ranger.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Power Ranger\obj\Debug\net5.0\Power Ranger.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Power Ranger\obj\Debug\net5.0\Power Ranger.dll
+C:\Users\omere\Desktop\Edabit\Power Ranger\obj\Debug\net5.0\ref\Power Ranger.dll
+C:\Users\omere\Desktop\Edabit\Power Ranger\obj\Debug\net5.0\Power Ranger.pdb
+C:\Users\omere\Desktop\Edabit\Power Ranger\obj\Debug\net5.0\Power Ranger.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F1MJMhppu0av0Y9PGwnTGVwcDOkA8kNPvYlzkbbzSqEZIVMfu8z6epVgwAiKpURoy2egsGv9SrR9hbMZllmTLw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\OneDrive\\Masaüstü\\Edabit\\Return the Factorial\\Return the Factorial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

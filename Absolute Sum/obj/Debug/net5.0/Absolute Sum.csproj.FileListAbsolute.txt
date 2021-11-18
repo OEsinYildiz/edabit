@@ -1,0 +1,31 @@
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Absolute Sum\bin\Debug\net5.0\Absolute Sum.exe
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Absolute Sum\bin\Debug\net5.0\Absolute Sum.deps.json
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Absolute Sum\bin\Debug\net5.0\Absolute Sum.runtimeconfig.json
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Absolute Sum\bin\Debug\net5.0\Absolute Sum.runtimeconfig.dev.json
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Absolute Sum\bin\Debug\net5.0\Absolute Sum.dll
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Absolute Sum\bin\Debug\net5.0\ref\Absolute Sum.dll
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Absolute Sum\bin\Debug\net5.0\Absolute Sum.pdb
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Absolute Sum\obj\Debug\net5.0\Absolute Sum.csprojAssemblyReference.cache
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Absolute Sum\obj\Debug\net5.0\Absolute Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Absolute Sum\obj\Debug\net5.0\Absolute Sum.AssemblyInfoInputs.cache
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Absolute Sum\obj\Debug\net5.0\Absolute Sum.AssemblyInfo.cs
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Absolute Sum\obj\Debug\net5.0\Absolute Sum.csproj.CoreCompileInputs.cache
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Absolute Sum\obj\Debug\net5.0\Absolute Sum.dll
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Absolute Sum\obj\Debug\net5.0\ref\Absolute Sum.dll
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Absolute Sum\obj\Debug\net5.0\Absolute Sum.pdb
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Absolute Sum\obj\Debug\net5.0\Absolute Sum.genruntimeconfig.cache
+C:\Users\omere\Desktop\Edabit\Absolute Sum\bin\Debug\net5.0\Absolute Sum.exe
+C:\Users\omere\Desktop\Edabit\Absolute Sum\bin\Debug\net5.0\Absolute Sum.deps.json
+C:\Users\omere\Desktop\Edabit\Absolute Sum\bin\Debug\net5.0\Absolute Sum.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Absolute Sum\bin\Debug\net5.0\Absolute Sum.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Absolute Sum\bin\Debug\net5.0\Absolute Sum.dll
+C:\Users\omere\Desktop\Edabit\Absolute Sum\bin\Debug\net5.0\ref\Absolute Sum.dll
+C:\Users\omere\Desktop\Edabit\Absolute Sum\bin\Debug\net5.0\Absolute Sum.pdb
+C:\Users\omere\Desktop\Edabit\Absolute Sum\obj\Debug\net5.0\Absolute Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Absolute Sum\obj\Debug\net5.0\Absolute Sum.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Absolute Sum\obj\Debug\net5.0\Absolute Sum.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Absolute Sum\obj\Debug\net5.0\Absolute Sum.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Absolute Sum\obj\Debug\net5.0\Absolute Sum.dll
+C:\Users\omere\Desktop\Edabit\Absolute Sum\obj\Debug\net5.0\ref\Absolute Sum.dll
+C:\Users\omere\Desktop\Edabit\Absolute Sum\obj\Debug\net5.0\Absolute Sum.pdb
+C:\Users\omere\Desktop\Edabit\Absolute Sum\obj\Debug\net5.0\Absolute Sum.genruntimeconfig.cache

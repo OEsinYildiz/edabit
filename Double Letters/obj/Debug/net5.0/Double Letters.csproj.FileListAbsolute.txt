@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\Double Letters\bin\Debug\net5.0\Double Letters.exe
+C:\Users\omere\Desktop\Edabit\Double Letters\bin\Debug\net5.0\Double Letters.deps.json
+C:\Users\omere\Desktop\Edabit\Double Letters\bin\Debug\net5.0\Double Letters.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Double Letters\bin\Debug\net5.0\Double Letters.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Double Letters\bin\Debug\net5.0\Double Letters.dll
+C:\Users\omere\Desktop\Edabit\Double Letters\bin\Debug\net5.0\ref\Double Letters.dll
+C:\Users\omere\Desktop\Edabit\Double Letters\bin\Debug\net5.0\Double Letters.pdb
+C:\Users\omere\Desktop\Edabit\Double Letters\obj\Debug\net5.0\Double Letters.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\Double Letters\obj\Debug\net5.0\Double Letters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Double Letters\obj\Debug\net5.0\Double Letters.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Double Letters\obj\Debug\net5.0\Double Letters.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Double Letters\obj\Debug\net5.0\Double Letters.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Double Letters\obj\Debug\net5.0\Double Letters.dll
+C:\Users\omere\Desktop\Edabit\Double Letters\obj\Debug\net5.0\ref\Double Letters.dll
+C:\Users\omere\Desktop\Edabit\Double Letters\obj\Debug\net5.0\Double Letters.pdb
+C:\Users\omere\Desktop\Edabit\Double Letters\obj\Debug\net5.0\Double Letters.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\Stuttering Function\bin\Debug\net5.0\Stuttering Function.exe
+C:\Users\omere\Desktop\Edabit\Stuttering Function\bin\Debug\net5.0\Stuttering Function.deps.json
+C:\Users\omere\Desktop\Edabit\Stuttering Function\bin\Debug\net5.0\Stuttering Function.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Stuttering Function\bin\Debug\net5.0\Stuttering Function.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Stuttering Function\bin\Debug\net5.0\Stuttering Function.dll
+C:\Users\omere\Desktop\Edabit\Stuttering Function\bin\Debug\net5.0\ref\Stuttering Function.dll
+C:\Users\omere\Desktop\Edabit\Stuttering Function\bin\Debug\net5.0\Stuttering Function.pdb
+C:\Users\omere\Desktop\Edabit\Stuttering Function\obj\Debug\net5.0\Stuttering Function.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\Stuttering Function\obj\Debug\net5.0\Stuttering Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Stuttering Function\obj\Debug\net5.0\Stuttering Function.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Stuttering Function\obj\Debug\net5.0\Stuttering Function.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Stuttering Function\obj\Debug\net5.0\Stuttering Function.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Stuttering Function\obj\Debug\net5.0\Stuttering Function.dll
+C:\Users\omere\Desktop\Edabit\Stuttering Function\obj\Debug\net5.0\ref\Stuttering Function.dll
+C:\Users\omere\Desktop\Edabit\Stuttering Function\obj\Debug\net5.0\Stuttering Function.pdb
+C:\Users\omere\Desktop\Edabit\Stuttering Function\obj\Debug\net5.0\Stuttering Function.genruntimeconfig.cache

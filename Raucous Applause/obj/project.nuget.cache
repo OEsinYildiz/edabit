@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Py7OToWJQBXeVOFSF7Ls2Rtz4qSPEIdBYuyVvzszibU3FjvWGmRVN9ZhH2+lSqraO1r+GMMgqRCXb1hf89fGuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\OneDrive\\Masaüstü\\Edabit\\Raucous Applause\\Raucous Applause.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

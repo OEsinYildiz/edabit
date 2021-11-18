@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\Reverse Coding Challenge\bin\Debug\net5.0\Reverse Coding Challenge.exe
+C:\Users\omere\Desktop\Edabit\Reverse Coding Challenge\bin\Debug\net5.0\Reverse Coding Challenge.deps.json
+C:\Users\omere\Desktop\Edabit\Reverse Coding Challenge\bin\Debug\net5.0\Reverse Coding Challenge.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Reverse Coding Challenge\bin\Debug\net5.0\Reverse Coding Challenge.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Reverse Coding Challenge\bin\Debug\net5.0\Reverse Coding Challenge.dll
+C:\Users\omere\Desktop\Edabit\Reverse Coding Challenge\bin\Debug\net5.0\ref\Reverse Coding Challenge.dll
+C:\Users\omere\Desktop\Edabit\Reverse Coding Challenge\bin\Debug\net5.0\Reverse Coding Challenge.pdb
+C:\Users\omere\Desktop\Edabit\Reverse Coding Challenge\obj\Debug\net5.0\Reverse Coding Challenge.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\Reverse Coding Challenge\obj\Debug\net5.0\Reverse Coding Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Reverse Coding Challenge\obj\Debug\net5.0\Reverse Coding Challenge.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Reverse Coding Challenge\obj\Debug\net5.0\Reverse Coding Challenge.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Reverse Coding Challenge\obj\Debug\net5.0\Reverse Coding Challenge.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Reverse Coding Challenge\obj\Debug\net5.0\Reverse Coding Challenge.dll
+C:\Users\omere\Desktop\Edabit\Reverse Coding Challenge\obj\Debug\net5.0\ref\Reverse Coding Challenge.dll
+C:\Users\omere\Desktop\Edabit\Reverse Coding Challenge\obj\Debug\net5.0\Reverse Coding Challenge.pdb
+C:\Users\omere\Desktop\Edabit\Reverse Coding Challenge\obj\Debug\net5.0\Reverse Coding Challenge.genruntimeconfig.cache

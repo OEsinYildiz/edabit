@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\Is the Word an Isogram\bin\Debug\net5.0\Is the Word an Isogram.exe
+C:\Users\omere\Desktop\Edabit\Is the Word an Isogram\bin\Debug\net5.0\Is the Word an Isogram.deps.json
+C:\Users\omere\Desktop\Edabit\Is the Word an Isogram\bin\Debug\net5.0\Is the Word an Isogram.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Is the Word an Isogram\bin\Debug\net5.0\Is the Word an Isogram.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Is the Word an Isogram\bin\Debug\net5.0\Is the Word an Isogram.dll
+C:\Users\omere\Desktop\Edabit\Is the Word an Isogram\bin\Debug\net5.0\ref\Is the Word an Isogram.dll
+C:\Users\omere\Desktop\Edabit\Is the Word an Isogram\bin\Debug\net5.0\Is the Word an Isogram.pdb
+C:\Users\omere\Desktop\Edabit\Is the Word an Isogram\obj\Debug\net5.0\Is the Word an Isogram.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\Is the Word an Isogram\obj\Debug\net5.0\Is the Word an Isogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Is the Word an Isogram\obj\Debug\net5.0\Is the Word an Isogram.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Is the Word an Isogram\obj\Debug\net5.0\Is the Word an Isogram.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Is the Word an Isogram\obj\Debug\net5.0\Is the Word an Isogram.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Is the Word an Isogram\obj\Debug\net5.0\Is the Word an Isogram.dll
+C:\Users\omere\Desktop\Edabit\Is the Word an Isogram\obj\Debug\net5.0\ref\Is the Word an Isogram.dll
+C:\Users\omere\Desktop\Edabit\Is the Word an Isogram\obj\Debug\net5.0\Is the Word an Isogram.pdb
+C:\Users\omere\Desktop\Edabit\Is the Word an Isogram\obj\Debug\net5.0\Is the Word an Isogram.genruntimeconfig.cache

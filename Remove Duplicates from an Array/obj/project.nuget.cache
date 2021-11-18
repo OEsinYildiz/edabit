@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qWSZzM/llNEPwyjwsBWump7QiFl7kSSatvXmANobxwPaVT0Az6ywEQryB/4LIU9oPmmA43UgTlRsEGR9LqSnCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\OneDrive\\Masaüstü\\Edabit\\Remove Duplicates from an Array\\Remove Duplicates from an Array.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

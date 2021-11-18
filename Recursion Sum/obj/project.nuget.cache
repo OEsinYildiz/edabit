@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SjpjV3qGghw9GO7gisnU2vQBmvPFTq7v5k/Rmman8g9XupaWpSq98Uz9LQtsUgdCrsdrZJD+CjlQKIc5+595xQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\OneDrive\\Masaüstü\\Edabit\\Recursion Sum\\Recursion Sum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

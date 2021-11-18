@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8YurA17RAr7t0AAZsjoZaekEANvpNc/pubYaB+9cIQlyn9Rqu6uSP+Aa3yewVa20O0LfuQPOuMcTT3oOEgnlnw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\OneDrive\\Masaüstü\\Edabit\\ATM PIN Code Validation\\ATM PIN Code Validation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

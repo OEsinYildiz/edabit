@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VE18HZyS9Vfr1+9SB0BBAMXD/GABQGQkk7F8ulBktF6xl89vRKE0Ge1jmya+ijhGR+YmOJgnokxCnoZYQyKtyw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\OneDrive\\Masaüstü\\Edabit\\Power Ranger\\Power Ranger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

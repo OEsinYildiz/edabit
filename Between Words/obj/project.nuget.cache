@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JuEe2jRGfQ/aLgkvkHMVWojaVv5rhIh8qk3pP/ko/6oeRY3Xj8F0H6xwA8Se+xtn/1CnCguJ1dRtrEqu1KHbmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\OneDrive\\Masaüstü\\Edabit\\Between Words\\Between Words.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

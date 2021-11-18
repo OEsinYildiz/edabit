@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\Return the Highest and Lowest Numbers\bin\Debug\net5.0\Return the Highest and Lowest Numbers.exe
+C:\Users\omere\Desktop\Edabit\Return the Highest and Lowest Numbers\bin\Debug\net5.0\Return the Highest and Lowest Numbers.deps.json
+C:\Users\omere\Desktop\Edabit\Return the Highest and Lowest Numbers\bin\Debug\net5.0\Return the Highest and Lowest Numbers.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Return the Highest and Lowest Numbers\bin\Debug\net5.0\Return the Highest and Lowest Numbers.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Return the Highest and Lowest Numbers\bin\Debug\net5.0\Return the Highest and Lowest Numbers.dll
+C:\Users\omere\Desktop\Edabit\Return the Highest and Lowest Numbers\bin\Debug\net5.0\ref\Return the Highest and Lowest Numbers.dll
+C:\Users\omere\Desktop\Edabit\Return the Highest and Lowest Numbers\bin\Debug\net5.0\Return the Highest and Lowest Numbers.pdb
+C:\Users\omere\Desktop\Edabit\Return the Highest and Lowest Numbers\obj\Debug\net5.0\Return the Highest and Lowest Numbers.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\Return the Highest and Lowest Numbers\obj\Debug\net5.0\Return the Highest and Lowest Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Return the Highest and Lowest Numbers\obj\Debug\net5.0\Return the Highest and Lowest Numbers.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Return the Highest and Lowest Numbers\obj\Debug\net5.0\Return the Highest and Lowest Numbers.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Return the Highest and Lowest Numbers\obj\Debug\net5.0\Return the Highest and Lowest Numbers.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Return the Highest and Lowest Numbers\obj\Debug\net5.0\Return the Highest and Lowest Numbers.dll
+C:\Users\omere\Desktop\Edabit\Return the Highest and Lowest Numbers\obj\Debug\net5.0\ref\Return the Highest and Lowest Numbers.dll
+C:\Users\omere\Desktop\Edabit\Return the Highest and Lowest Numbers\obj\Debug\net5.0\Return the Highest and Lowest Numbers.pdb
+C:\Users\omere\Desktop\Edabit\Return the Highest and Lowest Numbers\obj\Debug\net5.0\Return the Highest and Lowest Numbers.genruntimeconfig.cache

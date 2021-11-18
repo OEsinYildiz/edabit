@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\Reverse the Order of a String\bin\Debug\net5.0\Reverse the Order of a String.exe
+C:\Users\omere\Desktop\Edabit\Reverse the Order of a String\bin\Debug\net5.0\Reverse the Order of a String.deps.json
+C:\Users\omere\Desktop\Edabit\Reverse the Order of a String\bin\Debug\net5.0\Reverse the Order of a String.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Reverse the Order of a String\bin\Debug\net5.0\Reverse the Order of a String.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Reverse the Order of a String\bin\Debug\net5.0\Reverse the Order of a String.dll
+C:\Users\omere\Desktop\Edabit\Reverse the Order of a String\bin\Debug\net5.0\ref\Reverse the Order of a String.dll
+C:\Users\omere\Desktop\Edabit\Reverse the Order of a String\bin\Debug\net5.0\Reverse the Order of a String.pdb
+C:\Users\omere\Desktop\Edabit\Reverse the Order of a String\obj\Debug\net5.0\Reverse the Order of a String.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\Reverse the Order of a String\obj\Debug\net5.0\Reverse the Order of a String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Reverse the Order of a String\obj\Debug\net5.0\Reverse the Order of a String.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Reverse the Order of a String\obj\Debug\net5.0\Reverse the Order of a String.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Reverse the Order of a String\obj\Debug\net5.0\Reverse the Order of a String.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Reverse the Order of a String\obj\Debug\net5.0\Reverse the Order of a String.dll
+C:\Users\omere\Desktop\Edabit\Reverse the Order of a String\obj\Debug\net5.0\ref\Reverse the Order of a String.dll
+C:\Users\omere\Desktop\Edabit\Reverse the Order of a String\obj\Debug\net5.0\Reverse the Order of a String.pdb
+C:\Users\omere\Desktop\Edabit\Reverse the Order of a String\obj\Debug\net5.0\Reverse the Order of a String.genruntimeconfig.cache

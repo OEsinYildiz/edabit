@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\Next Number Greater Than A and B and Divisible by B\bin\Debug\net5.0\Next Number Greater Than A and B and Divisible by B.exe
+C:\Users\omere\Desktop\Edabit\Next Number Greater Than A and B and Divisible by B\bin\Debug\net5.0\Next Number Greater Than A and B and Divisible by B.deps.json
+C:\Users\omere\Desktop\Edabit\Next Number Greater Than A and B and Divisible by B\bin\Debug\net5.0\Next Number Greater Than A and B and Divisible by B.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Next Number Greater Than A and B and Divisible by B\bin\Debug\net5.0\Next Number Greater Than A and B and Divisible by B.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Next Number Greater Than A and B and Divisible by B\bin\Debug\net5.0\Next Number Greater Than A and B and Divisible by B.dll
+C:\Users\omere\Desktop\Edabit\Next Number Greater Than A and B and Divisible by B\bin\Debug\net5.0\ref\Next Number Greater Than A and B and Divisible by B.dll
+C:\Users\omere\Desktop\Edabit\Next Number Greater Than A and B and Divisible by B\bin\Debug\net5.0\Next Number Greater Than A and B and Divisible by B.pdb
+C:\Users\omere\Desktop\Edabit\Next Number Greater Than A and B and Divisible by B\obj\Debug\net5.0\Next Number Greater Than A and B and Divisible by B.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\Next Number Greater Than A and B and Divisible by B\obj\Debug\net5.0\Next Number Greater Than A and B and Divisible by B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Next Number Greater Than A and B and Divisible by B\obj\Debug\net5.0\Next Number Greater Than A and B and Divisible by B.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Next Number Greater Than A and B and Divisible by B\obj\Debug\net5.0\Next Number Greater Than A and B and Divisible by B.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Next Number Greater Than A and B and Divisible by B\obj\Debug\net5.0\Next Number Greater Than A and B and Divisible by B.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Next Number Greater Than A and B and Divisible by B\obj\Debug\net5.0\Next Number Greater Than A and B and Divisible by B.dll
+C:\Users\omere\Desktop\Edabit\Next Number Greater Than A and B and Divisible by B\obj\Debug\net5.0\ref\Next Number Greater Than A and B and Divisible by B.dll
+C:\Users\omere\Desktop\Edabit\Next Number Greater Than A and B and Divisible by B\obj\Debug\net5.0\Next Number Greater Than A and B and Divisible by B.pdb
+C:\Users\omere\Desktop\Edabit\Next Number Greater Than A and B and Divisible by B\obj\Debug\net5.0\Next Number Greater Than A and B and Divisible by B.genruntimeconfig.cache

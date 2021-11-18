@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mmX3ZiKYKb2PHkgmO9vwdc2Ax3Vo48bvVlMA0WpALD7esKPnYtWKLuk0CR1ojz5FbtC8si738jKSxOrI35gDLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\OneDrive\\Masaüstü\\Edabit\\Absolute Sum\\Absolute Sum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\Spaces Between Each Character\bin\Debug\net5.0\Spaces Between Each Character.exe
+C:\Users\omere\Desktop\Edabit\Spaces Between Each Character\bin\Debug\net5.0\Spaces Between Each Character.deps.json
+C:\Users\omere\Desktop\Edabit\Spaces Between Each Character\bin\Debug\net5.0\Spaces Between Each Character.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Spaces Between Each Character\bin\Debug\net5.0\Spaces Between Each Character.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Spaces Between Each Character\bin\Debug\net5.0\Spaces Between Each Character.dll
+C:\Users\omere\Desktop\Edabit\Spaces Between Each Character\bin\Debug\net5.0\ref\Spaces Between Each Character.dll
+C:\Users\omere\Desktop\Edabit\Spaces Between Each Character\bin\Debug\net5.0\Spaces Between Each Character.pdb
+C:\Users\omere\Desktop\Edabit\Spaces Between Each Character\obj\Debug\net5.0\Spaces Between Each Character.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\Spaces Between Each Character\obj\Debug\net5.0\Spaces Between Each Character.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Spaces Between Each Character\obj\Debug\net5.0\Spaces Between Each Character.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Spaces Between Each Character\obj\Debug\net5.0\Spaces Between Each Character.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Spaces Between Each Character\obj\Debug\net5.0\Spaces Between Each Character.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Spaces Between Each Character\obj\Debug\net5.0\Spaces Between Each Character.dll
+C:\Users\omere\Desktop\Edabit\Spaces Between Each Character\obj\Debug\net5.0\ref\Spaces Between Each Character.dll
+C:\Users\omere\Desktop\Edabit\Spaces Between Each Character\obj\Debug\net5.0\Spaces Between Each Character.pdb
+C:\Users\omere\Desktop\Edabit\Spaces Between Each Character\obj\Debug\net5.0\Spaces Between Each Character.genruntimeconfig.cache

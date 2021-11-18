@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Count the Number of Duplicate Characters/1.0.0": {
+        "runtime": {
+          "Count the Number of Duplicate Characters.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Count the Number of Duplicate Characters/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

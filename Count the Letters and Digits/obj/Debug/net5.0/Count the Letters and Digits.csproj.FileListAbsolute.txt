@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\Count the Letters and Digits\bin\Debug\net5.0\Count the Letters and Digits.exe
+C:\Users\omere\Desktop\Edabit\Count the Letters and Digits\bin\Debug\net5.0\Count the Letters and Digits.deps.json
+C:\Users\omere\Desktop\Edabit\Count the Letters and Digits\bin\Debug\net5.0\Count the Letters and Digits.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Count the Letters and Digits\bin\Debug\net5.0\Count the Letters and Digits.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Count the Letters and Digits\bin\Debug\net5.0\Count the Letters and Digits.dll
+C:\Users\omere\Desktop\Edabit\Count the Letters and Digits\bin\Debug\net5.0\ref\Count the Letters and Digits.dll
+C:\Users\omere\Desktop\Edabit\Count the Letters and Digits\bin\Debug\net5.0\Count the Letters and Digits.pdb
+C:\Users\omere\Desktop\Edabit\Count the Letters and Digits\obj\Debug\net5.0\Count the Letters and Digits.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\Count the Letters and Digits\obj\Debug\net5.0\Count the Letters and Digits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Count the Letters and Digits\obj\Debug\net5.0\Count the Letters and Digits.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Count the Letters and Digits\obj\Debug\net5.0\Count the Letters and Digits.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Count the Letters and Digits\obj\Debug\net5.0\Count the Letters and Digits.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Count the Letters and Digits\obj\Debug\net5.0\Count the Letters and Digits.dll
+C:\Users\omere\Desktop\Edabit\Count the Letters and Digits\obj\Debug\net5.0\ref\Count the Letters and Digits.dll
+C:\Users\omere\Desktop\Edabit\Count the Letters and Digits\obj\Debug\net5.0\Count the Letters and Digits.pdb
+C:\Users\omere\Desktop\Edabit\Count the Letters and Digits\obj\Debug\net5.0\Count the Letters and Digits.genruntimeconfig.cache

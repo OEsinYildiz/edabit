@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fb4zFCW7zpI6glRQu7Mf9Pyg1aQ55lsaeuwsPBcBUy1P0Ofn1Y1b6XpqPlSOk/Da0UZcwdJw/1nYjbl4U8vRmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\OneDrive\\Masaüstü\\Edabit\\Among Us Imposter Formula\\Among Us Imposter Formula.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

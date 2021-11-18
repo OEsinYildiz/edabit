@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\Find the Index\bin\Debug\net5.0\Find the Index.exe
+C:\Users\omere\Desktop\Edabit\Find the Index\bin\Debug\net5.0\Find the Index.deps.json
+C:\Users\omere\Desktop\Edabit\Find the Index\bin\Debug\net5.0\Find the Index.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Find the Index\bin\Debug\net5.0\Find the Index.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Find the Index\bin\Debug\net5.0\Find the Index.dll
+C:\Users\omere\Desktop\Edabit\Find the Index\bin\Debug\net5.0\ref\Find the Index.dll
+C:\Users\omere\Desktop\Edabit\Find the Index\bin\Debug\net5.0\Find the Index.pdb
+C:\Users\omere\Desktop\Edabit\Find the Index\obj\Debug\net5.0\Find the Index.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\Find the Index\obj\Debug\net5.0\Find the Index.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Find the Index\obj\Debug\net5.0\Find the Index.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Find the Index\obj\Debug\net5.0\Find the Index.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Find the Index\obj\Debug\net5.0\Find the Index.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Find the Index\obj\Debug\net5.0\Find the Index.dll
+C:\Users\omere\Desktop\Edabit\Find the Index\obj\Debug\net5.0\ref\Find the Index.dll
+C:\Users\omere\Desktop\Edabit\Find the Index\obj\Debug\net5.0\Find the Index.pdb
+C:\Users\omere\Desktop\Edabit\Find the Index\obj\Debug\net5.0\Find the Index.genruntimeconfig.cache

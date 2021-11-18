@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Phone Number Formatting/1.0.0": {
+        "runtime": {
+          "Phone Number Formatting.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Phone Number Formatting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

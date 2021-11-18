@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lBlSzrRNI8Zmj0wjr0UQ5XoxdMi9JNiITMyULD8l4GsMzngqd94sr75alnuTO/l2J7PK4RIiKKq41p8BqJapYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\OneDrive\\Masaüstü\\Edabit\\Equality of 3 Values\\Equality of 3 Values.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

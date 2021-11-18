@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A+YJwPIKMbefcWlVujeTVf9dkght4Hx19sFxLDFn1oMYzY13NErDtq/Vk2nuxedNcyR5YCQSOZqmf8SLdYNQOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\OneDrive\\Masaüstü\\Edabit\\Find the Missing Number\\Find the Missing Number.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

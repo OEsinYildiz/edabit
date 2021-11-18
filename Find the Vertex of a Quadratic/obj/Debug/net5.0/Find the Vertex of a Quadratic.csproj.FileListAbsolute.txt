@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\Find the Vertex of a Quadratic\bin\Debug\net5.0\Find the Vertex of a Quadratic.exe
+C:\Users\omere\Desktop\Edabit\Find the Vertex of a Quadratic\bin\Debug\net5.0\Find the Vertex of a Quadratic.deps.json
+C:\Users\omere\Desktop\Edabit\Find the Vertex of a Quadratic\bin\Debug\net5.0\Find the Vertex of a Quadratic.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Find the Vertex of a Quadratic\bin\Debug\net5.0\Find the Vertex of a Quadratic.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Find the Vertex of a Quadratic\bin\Debug\net5.0\Find the Vertex of a Quadratic.dll
+C:\Users\omere\Desktop\Edabit\Find the Vertex of a Quadratic\bin\Debug\net5.0\ref\Find the Vertex of a Quadratic.dll
+C:\Users\omere\Desktop\Edabit\Find the Vertex of a Quadratic\bin\Debug\net5.0\Find the Vertex of a Quadratic.pdb
+C:\Users\omere\Desktop\Edabit\Find the Vertex of a Quadratic\obj\Debug\net5.0\Find the Vertex of a Quadratic.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\Find the Vertex of a Quadratic\obj\Debug\net5.0\Find the Vertex of a Quadratic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Find the Vertex of a Quadratic\obj\Debug\net5.0\Find the Vertex of a Quadratic.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Find the Vertex of a Quadratic\obj\Debug\net5.0\Find the Vertex of a Quadratic.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Find the Vertex of a Quadratic\obj\Debug\net5.0\Find the Vertex of a Quadratic.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Find the Vertex of a Quadratic\obj\Debug\net5.0\Find the Vertex of a Quadratic.dll
+C:\Users\omere\Desktop\Edabit\Find the Vertex of a Quadratic\obj\Debug\net5.0\ref\Find the Vertex of a Quadratic.dll
+C:\Users\omere\Desktop\Edabit\Find the Vertex of a Quadratic\obj\Debug\net5.0\Find the Vertex of a Quadratic.pdb
+C:\Users\omere\Desktop\Edabit\Find the Vertex of a Quadratic\obj\Debug\net5.0\Find the Vertex of a Quadratic.genruntimeconfig.cache

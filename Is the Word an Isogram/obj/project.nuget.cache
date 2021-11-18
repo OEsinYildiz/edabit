@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SF9zz5Z/EkqkNmlv337bSPHmINHPig9f719Ic65e/4JU757Yn70HNqis6bus6A6UIpEZGN3VD1+fe4U29dVtDw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\OneDrive\\Masaüstü\\Edabit\\Is the Word an Isogram\\Is the Word an Isogram.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\How Many Vowels\bin\Debug\net5.0\How Many Vowels.exe
+C:\Users\omere\Desktop\Edabit\How Many Vowels\bin\Debug\net5.0\How Many Vowels.deps.json
+C:\Users\omere\Desktop\Edabit\How Many Vowels\bin\Debug\net5.0\How Many Vowels.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\How Many Vowels\bin\Debug\net5.0\How Many Vowels.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\How Many Vowels\bin\Debug\net5.0\How Many Vowels.dll
+C:\Users\omere\Desktop\Edabit\How Many Vowels\bin\Debug\net5.0\ref\How Many Vowels.dll
+C:\Users\omere\Desktop\Edabit\How Many Vowels\bin\Debug\net5.0\How Many Vowels.pdb
+C:\Users\omere\Desktop\Edabit\How Many Vowels\obj\Debug\net5.0\How Many Vowels.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\How Many Vowels\obj\Debug\net5.0\How Many Vowels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\How Many Vowels\obj\Debug\net5.0\How Many Vowels.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\How Many Vowels\obj\Debug\net5.0\How Many Vowels.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\How Many Vowels\obj\Debug\net5.0\How Many Vowels.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\How Many Vowels\obj\Debug\net5.0\How Many Vowels.dll
+C:\Users\omere\Desktop\Edabit\How Many Vowels\obj\Debug\net5.0\ref\How Many Vowels.dll
+C:\Users\omere\Desktop\Edabit\How Many Vowels\obj\Debug\net5.0\How Many Vowels.pdb
+C:\Users\omere\Desktop\Edabit\How Many Vowels\obj\Debug\net5.0\How Many Vowels.genruntimeconfig.cache

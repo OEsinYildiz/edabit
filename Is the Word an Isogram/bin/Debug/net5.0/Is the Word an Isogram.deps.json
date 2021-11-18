@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Is the Word an Isogram/1.0.0": {
+        "runtime": {
+          "Is the Word an Isogram.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Is the Word an Isogram/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

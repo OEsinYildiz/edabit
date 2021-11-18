@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\Imaginary Coding Interview\bin\Debug\net5.0\Imaginary Coding Interview.exe
+C:\Users\omere\Desktop\Edabit\Imaginary Coding Interview\bin\Debug\net5.0\Imaginary Coding Interview.deps.json
+C:\Users\omere\Desktop\Edabit\Imaginary Coding Interview\bin\Debug\net5.0\Imaginary Coding Interview.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Imaginary Coding Interview\bin\Debug\net5.0\Imaginary Coding Interview.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Imaginary Coding Interview\bin\Debug\net5.0\Imaginary Coding Interview.dll
+C:\Users\omere\Desktop\Edabit\Imaginary Coding Interview\bin\Debug\net5.0\ref\Imaginary Coding Interview.dll
+C:\Users\omere\Desktop\Edabit\Imaginary Coding Interview\bin\Debug\net5.0\Imaginary Coding Interview.pdb
+C:\Users\omere\Desktop\Edabit\Imaginary Coding Interview\obj\Debug\net5.0\Imaginary Coding Interview.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\Imaginary Coding Interview\obj\Debug\net5.0\Imaginary Coding Interview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Imaginary Coding Interview\obj\Debug\net5.0\Imaginary Coding Interview.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Imaginary Coding Interview\obj\Debug\net5.0\Imaginary Coding Interview.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Imaginary Coding Interview\obj\Debug\net5.0\Imaginary Coding Interview.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Imaginary Coding Interview\obj\Debug\net5.0\Imaginary Coding Interview.dll
+C:\Users\omere\Desktop\Edabit\Imaginary Coding Interview\obj\Debug\net5.0\ref\Imaginary Coding Interview.dll
+C:\Users\omere\Desktop\Edabit\Imaginary Coding Interview\obj\Debug\net5.0\Imaginary Coding Interview.pdb
+C:\Users\omere\Desktop\Edabit\Imaginary Coding Interview\obj\Debug\net5.0\Imaginary Coding Interview.genruntimeconfig.cache

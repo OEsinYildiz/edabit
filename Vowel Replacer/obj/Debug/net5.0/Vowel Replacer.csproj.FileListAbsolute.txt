@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\Vowel Replacer\bin\Debug\net5.0\Vowel Replacer.exe
+C:\Users\omere\Desktop\Edabit\Vowel Replacer\bin\Debug\net5.0\Vowel Replacer.deps.json
+C:\Users\omere\Desktop\Edabit\Vowel Replacer\bin\Debug\net5.0\Vowel Replacer.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Vowel Replacer\bin\Debug\net5.0\Vowel Replacer.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Vowel Replacer\bin\Debug\net5.0\Vowel Replacer.dll
+C:\Users\omere\Desktop\Edabit\Vowel Replacer\bin\Debug\net5.0\ref\Vowel Replacer.dll
+C:\Users\omere\Desktop\Edabit\Vowel Replacer\bin\Debug\net5.0\Vowel Replacer.pdb
+C:\Users\omere\Desktop\Edabit\Vowel Replacer\obj\Debug\net5.0\Vowel Replacer.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\Vowel Replacer\obj\Debug\net5.0\Vowel Replacer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Vowel Replacer\obj\Debug\net5.0\Vowel Replacer.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Vowel Replacer\obj\Debug\net5.0\Vowel Replacer.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Vowel Replacer\obj\Debug\net5.0\Vowel Replacer.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Vowel Replacer\obj\Debug\net5.0\Vowel Replacer.dll
+C:\Users\omere\Desktop\Edabit\Vowel Replacer\obj\Debug\net5.0\ref\Vowel Replacer.dll
+C:\Users\omere\Desktop\Edabit\Vowel Replacer\obj\Debug\net5.0\Vowel Replacer.pdb
+C:\Users\omere\Desktop\Edabit\Vowel Replacer\obj\Debug\net5.0\Vowel Replacer.genruntimeconfig.cache

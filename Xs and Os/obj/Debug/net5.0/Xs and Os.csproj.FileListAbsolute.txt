@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\Xs and Os\bin\Debug\net5.0\Xs and Os.exe
+C:\Users\omere\Desktop\Edabit\Xs and Os\bin\Debug\net5.0\Xs and Os.deps.json
+C:\Users\omere\Desktop\Edabit\Xs and Os\bin\Debug\net5.0\Xs and Os.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Xs and Os\bin\Debug\net5.0\Xs and Os.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Xs and Os\bin\Debug\net5.0\Xs and Os.dll
+C:\Users\omere\Desktop\Edabit\Xs and Os\bin\Debug\net5.0\ref\Xs and Os.dll
+C:\Users\omere\Desktop\Edabit\Xs and Os\bin\Debug\net5.0\Xs and Os.pdb
+C:\Users\omere\Desktop\Edabit\Xs and Os\obj\Debug\net5.0\Xs and Os.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\Xs and Os\obj\Debug\net5.0\Xs and Os.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Xs and Os\obj\Debug\net5.0\Xs and Os.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Xs and Os\obj\Debug\net5.0\Xs and Os.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Xs and Os\obj\Debug\net5.0\Xs and Os.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Xs and Os\obj\Debug\net5.0\Xs and Os.dll
+C:\Users\omere\Desktop\Edabit\Xs and Os\obj\Debug\net5.0\ref\Xs and Os.dll
+C:\Users\omere\Desktop\Edabit\Xs and Os\obj\Debug\net5.0\Xs and Os.pdb
+C:\Users\omere\Desktop\Edabit\Xs and Os\obj\Debug\net5.0\Xs and Os.genruntimeconfig.cache

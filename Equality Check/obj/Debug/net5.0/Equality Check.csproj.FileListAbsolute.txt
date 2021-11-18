@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\Equality Check\bin\Debug\net5.0\Equality Check.exe
+C:\Users\omere\Desktop\Edabit\Equality Check\bin\Debug\net5.0\Equality Check.deps.json
+C:\Users\omere\Desktop\Edabit\Equality Check\bin\Debug\net5.0\Equality Check.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Equality Check\bin\Debug\net5.0\Equality Check.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Equality Check\bin\Debug\net5.0\Equality Check.dll
+C:\Users\omere\Desktop\Edabit\Equality Check\bin\Debug\net5.0\ref\Equality Check.dll
+C:\Users\omere\Desktop\Edabit\Equality Check\bin\Debug\net5.0\Equality Check.pdb
+C:\Users\omere\Desktop\Edabit\Equality Check\obj\Debug\net5.0\Equality Check.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\Equality Check\obj\Debug\net5.0\Equality Check.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Equality Check\obj\Debug\net5.0\Equality Check.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Equality Check\obj\Debug\net5.0\Equality Check.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Equality Check\obj\Debug\net5.0\Equality Check.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Equality Check\obj\Debug\net5.0\Equality Check.dll
+C:\Users\omere\Desktop\Edabit\Equality Check\obj\Debug\net5.0\ref\Equality Check.dll
+C:\Users\omere\Desktop\Edabit\Equality Check\obj\Debug\net5.0\Equality Check.pdb
+C:\Users\omere\Desktop\Edabit\Equality Check\obj\Debug\net5.0\Equality Check.genruntimeconfig.cache

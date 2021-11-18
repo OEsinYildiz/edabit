@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\Recursion Sum\bin\Debug\net5.0\Recursion Sum.exe
+C:\Users\omere\Desktop\Edabit\Recursion Sum\bin\Debug\net5.0\Recursion Sum.deps.json
+C:\Users\omere\Desktop\Edabit\Recursion Sum\bin\Debug\net5.0\Recursion Sum.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Recursion Sum\bin\Debug\net5.0\Recursion Sum.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Recursion Sum\bin\Debug\net5.0\Recursion Sum.dll
+C:\Users\omere\Desktop\Edabit\Recursion Sum\bin\Debug\net5.0\ref\Recursion Sum.dll
+C:\Users\omere\Desktop\Edabit\Recursion Sum\bin\Debug\net5.0\Recursion Sum.pdb
+C:\Users\omere\Desktop\Edabit\Recursion Sum\obj\Debug\net5.0\Recursion Sum.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\Recursion Sum\obj\Debug\net5.0\Recursion Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Recursion Sum\obj\Debug\net5.0\Recursion Sum.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Recursion Sum\obj\Debug\net5.0\Recursion Sum.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Recursion Sum\obj\Debug\net5.0\Recursion Sum.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Recursion Sum\obj\Debug\net5.0\Recursion Sum.dll
+C:\Users\omere\Desktop\Edabit\Recursion Sum\obj\Debug\net5.0\ref\Recursion Sum.dll
+C:\Users\omere\Desktop\Edabit\Recursion Sum\obj\Debug\net5.0\Recursion Sum.pdb
+C:\Users\omere\Desktop\Edabit\Recursion Sum\obj\Debug\net5.0\Recursion Sum.genruntimeconfig.cache

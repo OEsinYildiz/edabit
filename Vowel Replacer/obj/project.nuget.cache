@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s6/EN+bhsXMxFdStFL7v3t47SD2JgFDLMH6K6rLnUNHwyIxmpjWFoveFz6w4XuEZ+IGG/lbKgKvG3EiUPJyCpA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\OneDrive\\Masaüstü\\Edabit\\Vowel Replacer\\Vowel Replacer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

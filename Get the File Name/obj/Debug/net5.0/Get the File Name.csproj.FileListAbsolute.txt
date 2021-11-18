@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\Get the File Name\bin\Debug\net5.0\Get the File Name.exe
+C:\Users\omere\Desktop\Edabit\Get the File Name\bin\Debug\net5.0\Get the File Name.deps.json
+C:\Users\omere\Desktop\Edabit\Get the File Name\bin\Debug\net5.0\Get the File Name.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Get the File Name\bin\Debug\net5.0\Get the File Name.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Get the File Name\bin\Debug\net5.0\Get the File Name.dll
+C:\Users\omere\Desktop\Edabit\Get the File Name\bin\Debug\net5.0\ref\Get the File Name.dll
+C:\Users\omere\Desktop\Edabit\Get the File Name\bin\Debug\net5.0\Get the File Name.pdb
+C:\Users\omere\Desktop\Edabit\Get the File Name\obj\Debug\net5.0\Get the File Name.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\Get the File Name\obj\Debug\net5.0\Get the File Name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Get the File Name\obj\Debug\net5.0\Get the File Name.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Get the File Name\obj\Debug\net5.0\Get the File Name.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Get the File Name\obj\Debug\net5.0\Get the File Name.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Get the File Name\obj\Debug\net5.0\Get the File Name.dll
+C:\Users\omere\Desktop\Edabit\Get the File Name\obj\Debug\net5.0\ref\Get the File Name.dll
+C:\Users\omere\Desktop\Edabit\Get the File Name\obj\Debug\net5.0\Get the File Name.pdb
+C:\Users\omere\Desktop\Edabit\Get the File Name\obj\Debug\net5.0\Get the File Name.genruntimeconfig.cache

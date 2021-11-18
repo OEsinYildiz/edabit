@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XhS5OD0KaEky6XPFKYKVqYQ7F+gfAvwIAER6xgv9dd7xmqVqQeZASoqi9WalkjefscBowJVH5TNOfHRmaGXuYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\OneDrive\\Masaüstü\\Edabit\\Largest Swap\\Largest Swap.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

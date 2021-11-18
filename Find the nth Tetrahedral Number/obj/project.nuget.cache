@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VMP6VeRjdrFaFx+2ir/I/JD3yrr4S5enhmh7oxn0Y9+rELsYvFsyfDog/LdLAU1TtlT7xV56EciZrt0A4GyhLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\OneDrive\\Masaüstü\\Edabit\\Find the nth Tetrahedral Number\\Find the nth Tetrahedral Number.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

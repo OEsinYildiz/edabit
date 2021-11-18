@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GJYUS9GliU7sNr+oCDLarDIoHzNgmHXGFOXn3wJO32hTjeRJ3InLDQWZphLB797LjpdtFEQsIbiQ94V4VhTBeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\OneDrive\\Masaüstü\\Edabit\\Count the Letters and Digits\\Count the Letters and Digits.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

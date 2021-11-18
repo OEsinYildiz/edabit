@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TauNJPuafsRHZ+vlpDmYaQKfNy0YhW4OnAEdsSfZrbZUrl8zNopAvnrrvvLUsdl8igv7ClBt/xL/3oXQ2bIAFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\OneDrive\\Masaüstü\\Edabit\\Imaginary Coding Interview\\Imaginary Coding Interview.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

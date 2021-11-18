@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "C0ml/p340dzIu9cnHSvsRIS2a2TazTxDHjduEApoFVIYJcGm99hQoR+LFIhYRj1J44wuFcwirAWiZ5R/BpNpfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\OneDrive\\Masaüstü\\Edabit\\FizzBuzz Interview Question\\FizzBuzz Interview Question.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

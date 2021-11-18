@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9DL7zT1fabsWF3cVLbWQCLPC8a9XmU17ORInJiwG/mSP6IqB6qbJcvmZDiOwkOJusJucX2KgBbhS1vs7WJuyNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\OneDrive\\Masaüstü\\Edabit\\The Collatz Conjecture\\The Collatz Conjecture.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

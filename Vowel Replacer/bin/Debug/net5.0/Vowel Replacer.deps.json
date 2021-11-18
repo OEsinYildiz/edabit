@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Vowel Replacer/1.0.0": {
+        "runtime": {
+          "Vowel Replacer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vowel Replacer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

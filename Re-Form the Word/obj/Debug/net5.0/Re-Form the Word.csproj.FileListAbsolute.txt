@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\Re-Form the Word\bin\Debug\net5.0\Re-Form the Word.exe
+C:\Users\omere\Desktop\Edabit\Re-Form the Word\bin\Debug\net5.0\Re-Form the Word.deps.json
+C:\Users\omere\Desktop\Edabit\Re-Form the Word\bin\Debug\net5.0\Re-Form the Word.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Re-Form the Word\bin\Debug\net5.0\Re-Form the Word.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Re-Form the Word\bin\Debug\net5.0\Re-Form the Word.dll
+C:\Users\omere\Desktop\Edabit\Re-Form the Word\bin\Debug\net5.0\ref\Re-Form the Word.dll
+C:\Users\omere\Desktop\Edabit\Re-Form the Word\bin\Debug\net5.0\Re-Form the Word.pdb
+C:\Users\omere\Desktop\Edabit\Re-Form the Word\obj\Debug\net5.0\Re-Form the Word.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\Re-Form the Word\obj\Debug\net5.0\Re-Form the Word.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Re-Form the Word\obj\Debug\net5.0\Re-Form the Word.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Re-Form the Word\obj\Debug\net5.0\Re-Form the Word.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Re-Form the Word\obj\Debug\net5.0\Re-Form the Word.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Re-Form the Word\obj\Debug\net5.0\Re-Form the Word.dll
+C:\Users\omere\Desktop\Edabit\Re-Form the Word\obj\Debug\net5.0\ref\Re-Form the Word.dll
+C:\Users\omere\Desktop\Edabit\Re-Form the Word\obj\Debug\net5.0\Re-Form the Word.pdb
+C:\Users\omere\Desktop\Edabit\Re-Form the Word\obj\Debug\net5.0\Re-Form the Word.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lh9CxVlp7XhSrKeIbpIqutWCzZUj89WbQqWOMeCg7ANanxzdyljOhBes3p1IxAmwgkQj0yFPxvVJ9ZAno+7UdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\OneDrive\\Masaüstü\\Edabit\\Reverse the Order of a String\\Reverse the Order of a String.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

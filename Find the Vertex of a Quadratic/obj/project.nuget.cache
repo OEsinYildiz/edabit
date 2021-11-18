@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vboGW+m4FBCrM6AyMqP1R0c5mLEURRSCWo5rbemf8t63EmFxKl6JM0d6R5YezMPhXUqC5TrypJIv5iuB9AA8Jg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\OneDrive\\Masaüstü\\Edabit\\Find the Vertex of a Quadratic\\Find the Vertex of a Quadratic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

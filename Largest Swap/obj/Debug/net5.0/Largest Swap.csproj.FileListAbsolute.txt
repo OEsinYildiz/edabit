@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\Largest Swap\bin\Debug\net5.0\Largest Swap.exe
+C:\Users\omere\Desktop\Edabit\Largest Swap\bin\Debug\net5.0\Largest Swap.deps.json
+C:\Users\omere\Desktop\Edabit\Largest Swap\bin\Debug\net5.0\Largest Swap.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Largest Swap\bin\Debug\net5.0\Largest Swap.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Largest Swap\bin\Debug\net5.0\Largest Swap.dll
+C:\Users\omere\Desktop\Edabit\Largest Swap\bin\Debug\net5.0\ref\Largest Swap.dll
+C:\Users\omere\Desktop\Edabit\Largest Swap\bin\Debug\net5.0\Largest Swap.pdb
+C:\Users\omere\Desktop\Edabit\Largest Swap\obj\Debug\net5.0\Largest Swap.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\Largest Swap\obj\Debug\net5.0\Largest Swap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Largest Swap\obj\Debug\net5.0\Largest Swap.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Largest Swap\obj\Debug\net5.0\Largest Swap.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Largest Swap\obj\Debug\net5.0\Largest Swap.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Largest Swap\obj\Debug\net5.0\Largest Swap.dll
+C:\Users\omere\Desktop\Edabit\Largest Swap\obj\Debug\net5.0\ref\Largest Swap.dll
+C:\Users\omere\Desktop\Edabit\Largest Swap\obj\Debug\net5.0\Largest Swap.pdb
+C:\Users\omere\Desktop\Edabit\Largest Swap\obj\Debug\net5.0\Largest Swap.genruntimeconfig.cache

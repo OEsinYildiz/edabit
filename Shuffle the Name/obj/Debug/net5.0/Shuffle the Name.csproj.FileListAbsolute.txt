@@ -1,0 +1,32 @@
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Shuffle the Name\bin\Debug\net5.0\Shuffle the Name.exe
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Shuffle the Name\bin\Debug\net5.0\Shuffle the Name.deps.json
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Shuffle the Name\bin\Debug\net5.0\Shuffle the Name.runtimeconfig.json
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Shuffle the Name\bin\Debug\net5.0\Shuffle the Name.runtimeconfig.dev.json
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Shuffle the Name\bin\Debug\net5.0\Shuffle the Name.dll
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Shuffle the Name\bin\Debug\net5.0\ref\Shuffle the Name.dll
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Shuffle the Name\bin\Debug\net5.0\Shuffle the Name.pdb
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Shuffle the Name\obj\Debug\net5.0\Shuffle the Name.csprojAssemblyReference.cache
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Shuffle the Name\obj\Debug\net5.0\Shuffle the Name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Shuffle the Name\obj\Debug\net5.0\Shuffle the Name.AssemblyInfoInputs.cache
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Shuffle the Name\obj\Debug\net5.0\Shuffle the Name.AssemblyInfo.cs
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Shuffle the Name\obj\Debug\net5.0\Shuffle the Name.csproj.CoreCompileInputs.cache
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Shuffle the Name\obj\Debug\net5.0\Shuffle the Name.dll
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Shuffle the Name\obj\Debug\net5.0\ref\Shuffle the Name.dll
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Shuffle the Name\obj\Debug\net5.0\Shuffle the Name.pdb
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Shuffle the Name\obj\Debug\net5.0\Shuffle the Name.genruntimeconfig.cache
+C:\Users\omere\Desktop\Edabit\Shuffle the Name\bin\Debug\net5.0\Shuffle the Name.exe
+C:\Users\omere\Desktop\Edabit\Shuffle the Name\bin\Debug\net5.0\Shuffle the Name.deps.json
+C:\Users\omere\Desktop\Edabit\Shuffle the Name\bin\Debug\net5.0\Shuffle the Name.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Shuffle the Name\bin\Debug\net5.0\Shuffle the Name.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Shuffle the Name\bin\Debug\net5.0\Shuffle the Name.dll
+C:\Users\omere\Desktop\Edabit\Shuffle the Name\bin\Debug\net5.0\ref\Shuffle the Name.dll
+C:\Users\omere\Desktop\Edabit\Shuffle the Name\bin\Debug\net5.0\Shuffle the Name.pdb
+C:\Users\omere\Desktop\Edabit\Shuffle the Name\obj\Debug\net5.0\Shuffle the Name.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\Shuffle the Name\obj\Debug\net5.0\Shuffle the Name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Shuffle the Name\obj\Debug\net5.0\Shuffle the Name.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Shuffle the Name\obj\Debug\net5.0\Shuffle the Name.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Shuffle the Name\obj\Debug\net5.0\Shuffle the Name.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Shuffle the Name\obj\Debug\net5.0\Shuffle the Name.dll
+C:\Users\omere\Desktop\Edabit\Shuffle the Name\obj\Debug\net5.0\ref\Shuffle the Name.dll
+C:\Users\omere\Desktop\Edabit\Shuffle the Name\obj\Debug\net5.0\Shuffle the Name.pdb
+C:\Users\omere\Desktop\Edabit\Shuffle the Name\obj\Debug\net5.0\Shuffle the Name.genruntimeconfig.cache

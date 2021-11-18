@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net5.0</TargetFramework>
+        <RootNamespace>Recursion_to_Repeat_a_String_n_Number_of_Times</RootNamespace>
+    </PropertyGroup>
+
+</Project>

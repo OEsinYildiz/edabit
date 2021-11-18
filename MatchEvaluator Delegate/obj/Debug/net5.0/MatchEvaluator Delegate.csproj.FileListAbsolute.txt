@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\MatchEvaluator Delegate\bin\Debug\net5.0\MatchEvaluator Delegate.exe
+C:\Users\omere\Desktop\Edabit\MatchEvaluator Delegate\bin\Debug\net5.0\MatchEvaluator Delegate.deps.json
+C:\Users\omere\Desktop\Edabit\MatchEvaluator Delegate\bin\Debug\net5.0\MatchEvaluator Delegate.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\MatchEvaluator Delegate\bin\Debug\net5.0\MatchEvaluator Delegate.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\MatchEvaluator Delegate\bin\Debug\net5.0\MatchEvaluator Delegate.dll
+C:\Users\omere\Desktop\Edabit\MatchEvaluator Delegate\bin\Debug\net5.0\ref\MatchEvaluator Delegate.dll
+C:\Users\omere\Desktop\Edabit\MatchEvaluator Delegate\bin\Debug\net5.0\MatchEvaluator Delegate.pdb
+C:\Users\omere\Desktop\Edabit\MatchEvaluator Delegate\obj\Debug\net5.0\MatchEvaluator Delegate.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\MatchEvaluator Delegate\obj\Debug\net5.0\MatchEvaluator Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\MatchEvaluator Delegate\obj\Debug\net5.0\MatchEvaluator Delegate.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\MatchEvaluator Delegate\obj\Debug\net5.0\MatchEvaluator Delegate.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\MatchEvaluator Delegate\obj\Debug\net5.0\MatchEvaluator Delegate.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\MatchEvaluator Delegate\obj\Debug\net5.0\MatchEvaluator Delegate.dll
+C:\Users\omere\Desktop\Edabit\MatchEvaluator Delegate\obj\Debug\net5.0\ref\MatchEvaluator Delegate.dll
+C:\Users\omere\Desktop\Edabit\MatchEvaluator Delegate\obj\Debug\net5.0\MatchEvaluator Delegate.pdb
+C:\Users\omere\Desktop\Edabit\MatchEvaluator Delegate\obj\Debug\net5.0\MatchEvaluator Delegate.genruntimeconfig.cache

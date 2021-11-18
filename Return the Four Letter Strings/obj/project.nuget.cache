@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o4AyazgTOchALr+3lG/0oDYTm0Tm7+kkdQ31ThCoOI4zloQIXas4IjNw/7EuRB0UZ/bwWTkQ1nv4NjWFCHeFlA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\OneDrive\\Masaüstü\\Edabit\\Return the Four Letter Strings\\Return the Four Letter Strings.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

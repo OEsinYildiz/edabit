@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\Between Words\bin\Debug\net5.0\Between Words.exe
+C:\Users\omere\Desktop\Edabit\Between Words\bin\Debug\net5.0\Between Words.deps.json
+C:\Users\omere\Desktop\Edabit\Between Words\bin\Debug\net5.0\Between Words.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Between Words\bin\Debug\net5.0\Between Words.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Between Words\bin\Debug\net5.0\Between Words.dll
+C:\Users\omere\Desktop\Edabit\Between Words\bin\Debug\net5.0\ref\Between Words.dll
+C:\Users\omere\Desktop\Edabit\Between Words\bin\Debug\net5.0\Between Words.pdb
+C:\Users\omere\Desktop\Edabit\Between Words\obj\Debug\net5.0\Between Words.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\Between Words\obj\Debug\net5.0\Between Words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Between Words\obj\Debug\net5.0\Between Words.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Between Words\obj\Debug\net5.0\Between Words.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Between Words\obj\Debug\net5.0\Between Words.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Between Words\obj\Debug\net5.0\Between Words.dll
+C:\Users\omere\Desktop\Edabit\Between Words\obj\Debug\net5.0\ref\Between Words.dll
+C:\Users\omere\Desktop\Edabit\Between Words\obj\Debug\net5.0\Between Words.pdb
+C:\Users\omere\Desktop\Edabit\Between Words\obj\Debug\net5.0\Between Words.genruntimeconfig.cache

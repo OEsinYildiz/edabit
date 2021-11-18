@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cx78yWdPxV7T+55D9r/vDcqGy1UcjW3kUvNy94xgoZw7CFRRHRG6oxCUVVtvxOj0elk6hPRW3Tc44tD7rhachw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\OneDrive\\Masaüstü\\Edabit\\Alphabet Soup\\Alphabet Soup.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

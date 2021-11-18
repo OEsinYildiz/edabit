@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\Use Regex\bin\Debug\net5.0\Use Regex.exe
+C:\Users\omere\Desktop\Edabit\Use Regex\bin\Debug\net5.0\Use Regex.deps.json
+C:\Users\omere\Desktop\Edabit\Use Regex\bin\Debug\net5.0\Use Regex.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Use Regex\bin\Debug\net5.0\Use Regex.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Use Regex\bin\Debug\net5.0\Use Regex.dll
+C:\Users\omere\Desktop\Edabit\Use Regex\bin\Debug\net5.0\ref\Use Regex.dll
+C:\Users\omere\Desktop\Edabit\Use Regex\bin\Debug\net5.0\Use Regex.pdb
+C:\Users\omere\Desktop\Edabit\Use Regex\obj\Debug\net5.0\Use Regex.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\Use Regex\obj\Debug\net5.0\Use Regex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Use Regex\obj\Debug\net5.0\Use Regex.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Use Regex\obj\Debug\net5.0\Use Regex.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Use Regex\obj\Debug\net5.0\Use Regex.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Use Regex\obj\Debug\net5.0\Use Regex.dll
+C:\Users\omere\Desktop\Edabit\Use Regex\obj\Debug\net5.0\ref\Use Regex.dll
+C:\Users\omere\Desktop\Edabit\Use Regex\obj\Debug\net5.0\Use Regex.pdb
+C:\Users\omere\Desktop\Edabit\Use Regex\obj\Debug\net5.0\Use Regex.genruntimeconfig.cache

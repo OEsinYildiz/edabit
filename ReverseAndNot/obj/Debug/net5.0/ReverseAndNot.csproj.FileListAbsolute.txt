@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\ReverseAndNot\bin\Debug\net5.0\ReverseAndNot.exe
+C:\Users\omere\Desktop\Edabit\ReverseAndNot\bin\Debug\net5.0\ReverseAndNot.deps.json
+C:\Users\omere\Desktop\Edabit\ReverseAndNot\bin\Debug\net5.0\ReverseAndNot.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\ReverseAndNot\bin\Debug\net5.0\ReverseAndNot.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\ReverseAndNot\bin\Debug\net5.0\ReverseAndNot.dll
+C:\Users\omere\Desktop\Edabit\ReverseAndNot\bin\Debug\net5.0\ref\ReverseAndNot.dll
+C:\Users\omere\Desktop\Edabit\ReverseAndNot\bin\Debug\net5.0\ReverseAndNot.pdb
+C:\Users\omere\Desktop\Edabit\ReverseAndNot\obj\Debug\net5.0\ReverseAndNot.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\ReverseAndNot\obj\Debug\net5.0\ReverseAndNot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\ReverseAndNot\obj\Debug\net5.0\ReverseAndNot.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\ReverseAndNot\obj\Debug\net5.0\ReverseAndNot.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\ReverseAndNot\obj\Debug\net5.0\ReverseAndNot.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\ReverseAndNot\obj\Debug\net5.0\ReverseAndNot.dll
+C:\Users\omere\Desktop\Edabit\ReverseAndNot\obj\Debug\net5.0\ref\ReverseAndNot.dll
+C:\Users\omere\Desktop\Edabit\ReverseAndNot\obj\Debug\net5.0\ReverseAndNot.pdb
+C:\Users\omere\Desktop\Edabit\ReverseAndNot\obj\Debug\net5.0\ReverseAndNot.genruntimeconfig.cache

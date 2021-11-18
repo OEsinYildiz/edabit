@@ -1,0 +1,32 @@
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Find the Bomb\bin\Debug\net5.0\Find the Bomb.exe
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Find the Bomb\bin\Debug\net5.0\Find the Bomb.deps.json
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Find the Bomb\bin\Debug\net5.0\Find the Bomb.runtimeconfig.json
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Find the Bomb\bin\Debug\net5.0\Find the Bomb.runtimeconfig.dev.json
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Find the Bomb\bin\Debug\net5.0\Find the Bomb.dll
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Find the Bomb\bin\Debug\net5.0\ref\Find the Bomb.dll
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Find the Bomb\bin\Debug\net5.0\Find the Bomb.pdb
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Find the Bomb\obj\Debug\net5.0\Find the Bomb.csprojAssemblyReference.cache
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Find the Bomb\obj\Debug\net5.0\Find the Bomb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Find the Bomb\obj\Debug\net5.0\Find the Bomb.AssemblyInfoInputs.cache
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Find the Bomb\obj\Debug\net5.0\Find the Bomb.AssemblyInfo.cs
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Find the Bomb\obj\Debug\net5.0\Find the Bomb.csproj.CoreCompileInputs.cache
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Find the Bomb\obj\Debug\net5.0\Find the Bomb.dll
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Find the Bomb\obj\Debug\net5.0\ref\Find the Bomb.dll
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Find the Bomb\obj\Debug\net5.0\Find the Bomb.pdb
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Find the Bomb\obj\Debug\net5.0\Find the Bomb.genruntimeconfig.cache
+C:\Users\omere\Desktop\Edabit\Find the Bomb\bin\Debug\net5.0\Find the Bomb.exe
+C:\Users\omere\Desktop\Edabit\Find the Bomb\bin\Debug\net5.0\Find the Bomb.deps.json
+C:\Users\omere\Desktop\Edabit\Find the Bomb\bin\Debug\net5.0\Find the Bomb.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Find the Bomb\bin\Debug\net5.0\Find the Bomb.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Find the Bomb\bin\Debug\net5.0\Find the Bomb.dll
+C:\Users\omere\Desktop\Edabit\Find the Bomb\bin\Debug\net5.0\ref\Find the Bomb.dll
+C:\Users\omere\Desktop\Edabit\Find the Bomb\bin\Debug\net5.0\Find the Bomb.pdb
+C:\Users\omere\Desktop\Edabit\Find the Bomb\obj\Debug\net5.0\Find the Bomb.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\Find the Bomb\obj\Debug\net5.0\Find the Bomb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Find the Bomb\obj\Debug\net5.0\Find the Bomb.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Find the Bomb\obj\Debug\net5.0\Find the Bomb.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Find the Bomb\obj\Debug\net5.0\Find the Bomb.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Find the Bomb\obj\Debug\net5.0\Find the Bomb.dll
+C:\Users\omere\Desktop\Edabit\Find the Bomb\obj\Debug\net5.0\ref\Find the Bomb.dll
+C:\Users\omere\Desktop\Edabit\Find the Bomb\obj\Debug\net5.0\Find the Bomb.pdb
+C:\Users\omere\Desktop\Edabit\Find the Bomb\obj\Debug\net5.0\Find the Bomb.genruntimeconfig.cache

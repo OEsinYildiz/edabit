@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\Maskify the String\bin\Debug\net5.0\Maskify the String.exe
+C:\Users\omere\Desktop\Edabit\Maskify the String\bin\Debug\net5.0\Maskify the String.deps.json
+C:\Users\omere\Desktop\Edabit\Maskify the String\bin\Debug\net5.0\Maskify the String.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Maskify the String\bin\Debug\net5.0\Maskify the String.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Maskify the String\bin\Debug\net5.0\Maskify the String.dll
+C:\Users\omere\Desktop\Edabit\Maskify the String\bin\Debug\net5.0\ref\Maskify the String.dll
+C:\Users\omere\Desktop\Edabit\Maskify the String\bin\Debug\net5.0\Maskify the String.pdb
+C:\Users\omere\Desktop\Edabit\Maskify the String\obj\Debug\net5.0\Maskify the String.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\Maskify the String\obj\Debug\net5.0\Maskify the String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Maskify the String\obj\Debug\net5.0\Maskify the String.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Maskify the String\obj\Debug\net5.0\Maskify the String.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Maskify the String\obj\Debug\net5.0\Maskify the String.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Maskify the String\obj\Debug\net5.0\Maskify the String.dll
+C:\Users\omere\Desktop\Edabit\Maskify the String\obj\Debug\net5.0\ref\Maskify the String.dll
+C:\Users\omere\Desktop\Edabit\Maskify the String\obj\Debug\net5.0\Maskify the String.pdb
+C:\Users\omere\Desktop\Edabit\Maskify the String\obj\Debug\net5.0\Maskify the String.genruntimeconfig.cache

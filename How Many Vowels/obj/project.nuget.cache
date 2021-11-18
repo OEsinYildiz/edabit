@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TA7IXqhCtwNyvLnJpVRXBAKt+54amMFr3KZUWS6KvVWpUuhU7nyKiXWTZ3S2NokPetjWoAaYYzaEo2iSa2yNlQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\OneDrive\\Masaüstü\\Edabit\\How Many Vowels\\How Many Vowels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

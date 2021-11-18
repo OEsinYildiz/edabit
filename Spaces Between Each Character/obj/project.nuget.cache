@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VwRt6s5J81kMW3zDEtc4KbbFKk6UmTarD/jfNekDraExfWb8xjtr3zXViEtAbR4wz4rTStwkAqTT/3ZcJm2EGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\OneDrive\\Masaüstü\\Edabit\\Spaces Between Each Character\\Spaces Between Each Character.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

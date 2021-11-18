@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\Zip Method\bin\Debug\net5.0\Zip Method.exe
+C:\Users\omere\Desktop\Edabit\Zip Method\bin\Debug\net5.0\Zip Method.deps.json
+C:\Users\omere\Desktop\Edabit\Zip Method\bin\Debug\net5.0\Zip Method.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Zip Method\bin\Debug\net5.0\Zip Method.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Zip Method\bin\Debug\net5.0\Zip Method.dll
+C:\Users\omere\Desktop\Edabit\Zip Method\bin\Debug\net5.0\ref\Zip Method.dll
+C:\Users\omere\Desktop\Edabit\Zip Method\bin\Debug\net5.0\Zip Method.pdb
+C:\Users\omere\Desktop\Edabit\Zip Method\obj\Debug\net5.0\Zip Method.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\Zip Method\obj\Debug\net5.0\Zip Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Zip Method\obj\Debug\net5.0\Zip Method.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Zip Method\obj\Debug\net5.0\Zip Method.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Zip Method\obj\Debug\net5.0\Zip Method.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Zip Method\obj\Debug\net5.0\Zip Method.dll
+C:\Users\omere\Desktop\Edabit\Zip Method\obj\Debug\net5.0\ref\Zip Method.dll
+C:\Users\omere\Desktop\Edabit\Zip Method\obj\Debug\net5.0\Zip Method.pdb
+C:\Users\omere\Desktop\Edabit\Zip Method\obj\Debug\net5.0\Zip Method.genruntimeconfig.cache

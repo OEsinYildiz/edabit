@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CNQftO76H1o+xClJsbuXeTATLhZylny2tfuNi5HF0wNWnCCHqAZp173TfWddyM3EVUqUpG/IVY1s/CLhp4iEyw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\OneDrive\\Masaüstü\\Edabit\\Maximum Occurrence\\Maximum Occurrence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

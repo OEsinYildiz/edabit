@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OyRbNMs9cCxZzJMsfsdaxkhbgYU9pdoAp/fEkRNlxBzCaFUsa0N3Q7bRuyy/XENOL6ErYEz5pTA2YZUHoPcNWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\OneDrive\\Masaüstü\\Edabit\\Re-Form the Word\\Re-Form the Word.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

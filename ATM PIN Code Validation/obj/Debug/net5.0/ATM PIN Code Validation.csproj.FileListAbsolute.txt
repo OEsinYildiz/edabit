@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\ATM PIN Code Validation\bin\Debug\net5.0\ATM PIN Code Validation.exe
+C:\Users\omere\Desktop\Edabit\ATM PIN Code Validation\bin\Debug\net5.0\ATM PIN Code Validation.deps.json
+C:\Users\omere\Desktop\Edabit\ATM PIN Code Validation\bin\Debug\net5.0\ATM PIN Code Validation.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\ATM PIN Code Validation\bin\Debug\net5.0\ATM PIN Code Validation.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\ATM PIN Code Validation\bin\Debug\net5.0\ATM PIN Code Validation.dll
+C:\Users\omere\Desktop\Edabit\ATM PIN Code Validation\bin\Debug\net5.0\ref\ATM PIN Code Validation.dll
+C:\Users\omere\Desktop\Edabit\ATM PIN Code Validation\bin\Debug\net5.0\ATM PIN Code Validation.pdb
+C:\Users\omere\Desktop\Edabit\ATM PIN Code Validation\obj\Debug\net5.0\ATM PIN Code Validation.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\ATM PIN Code Validation\obj\Debug\net5.0\ATM PIN Code Validation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\ATM PIN Code Validation\obj\Debug\net5.0\ATM PIN Code Validation.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\ATM PIN Code Validation\obj\Debug\net5.0\ATM PIN Code Validation.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\ATM PIN Code Validation\obj\Debug\net5.0\ATM PIN Code Validation.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\ATM PIN Code Validation\obj\Debug\net5.0\ATM PIN Code Validation.dll
+C:\Users\omere\Desktop\Edabit\ATM PIN Code Validation\obj\Debug\net5.0\ref\ATM PIN Code Validation.dll
+C:\Users\omere\Desktop\Edabit\ATM PIN Code Validation\obj\Debug\net5.0\ATM PIN Code Validation.pdb
+C:\Users\omere\Desktop\Edabit\ATM PIN Code Validation\obj\Debug\net5.0\ATM PIN Code Validation.genruntimeconfig.cache

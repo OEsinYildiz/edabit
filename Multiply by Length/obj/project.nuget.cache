@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pok4tdfuCsMYZG+dHfVHNoNqQzbghRmk4JMBHHCjcWyLYsYdFs7w43Wsor1CphOS1GAh5H8MMaeq6Z26OLnDgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\OneDrive\\Masaüstü\\Edabit\\Multiply by Length\\Multiply by Length.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\omere\Desktop\Edabit\Shapes With N Sides\bin\Debug\net5.0\Shapes With N Sides.exe
+C:\Users\omere\Desktop\Edabit\Shapes With N Sides\bin\Debug\net5.0\Shapes With N Sides.deps.json
+C:\Users\omere\Desktop\Edabit\Shapes With N Sides\bin\Debug\net5.0\Shapes With N Sides.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Shapes With N Sides\bin\Debug\net5.0\Shapes With N Sides.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Shapes With N Sides\bin\Debug\net5.0\Shapes With N Sides.dll
+C:\Users\omere\Desktop\Edabit\Shapes With N Sides\bin\Debug\net5.0\ref\Shapes With N Sides.dll
+C:\Users\omere\Desktop\Edabit\Shapes With N Sides\bin\Debug\net5.0\Shapes With N Sides.pdb
+C:\Users\omere\Desktop\Edabit\Shapes With N Sides\obj\Debug\net5.0\Shapes With N Sides.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Shapes With N Sides\obj\Debug\net5.0\Shapes With N Sides.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Shapes With N Sides\obj\Debug\net5.0\Shapes With N Sides.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Shapes With N Sides\obj\Debug\net5.0\Shapes With N Sides.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Shapes With N Sides\obj\Debug\net5.0\Shapes With N Sides.dll
+C:\Users\omere\Desktop\Edabit\Shapes With N Sides\obj\Debug\net5.0\ref\Shapes With N Sides.dll
+C:\Users\omere\Desktop\Edabit\Shapes With N Sides\obj\Debug\net5.0\Shapes With N Sides.pdb
+C:\Users\omere\Desktop\Edabit\Shapes With N Sides\obj\Debug\net5.0\Shapes With N Sides.genruntimeconfig.cache

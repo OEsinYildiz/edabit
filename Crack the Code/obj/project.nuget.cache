@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "p5hQ4jWYDSz+3YFw46FOhvPg+SFrDvXBq2uvo210YPhaZwc134oTeSXcUiJ3GS5qact+lUEz4rORFe+ArTiK3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\OneDrive\\Masaüstü\\Edabit\\Crack the Code\\Crack the Code.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

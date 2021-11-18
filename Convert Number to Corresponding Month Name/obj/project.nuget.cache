@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dkeAHP+FzwJ9luRi7C0wyFqV9in8bMTDqNOxO8bcYToIdboKhPYq2DChRIUL1YXwyV0n4eHlgYq4Od8H76X2WQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\OneDrive\\Masaüstü\\Edabit\\Convert Number to Corresponding Month Name\\Convert Number to Corresponding Month Name.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

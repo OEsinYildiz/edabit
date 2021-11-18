@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\Count the Number of Duplicate Characters\bin\Debug\net5.0\Count the Number of Duplicate Characters.exe
+C:\Users\omere\Desktop\Edabit\Count the Number of Duplicate Characters\bin\Debug\net5.0\Count the Number of Duplicate Characters.deps.json
+C:\Users\omere\Desktop\Edabit\Count the Number of Duplicate Characters\bin\Debug\net5.0\Count the Number of Duplicate Characters.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Count the Number of Duplicate Characters\bin\Debug\net5.0\Count the Number of Duplicate Characters.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Count the Number of Duplicate Characters\bin\Debug\net5.0\Count the Number of Duplicate Characters.dll
+C:\Users\omere\Desktop\Edabit\Count the Number of Duplicate Characters\bin\Debug\net5.0\ref\Count the Number of Duplicate Characters.dll
+C:\Users\omere\Desktop\Edabit\Count the Number of Duplicate Characters\bin\Debug\net5.0\Count the Number of Duplicate Characters.pdb
+C:\Users\omere\Desktop\Edabit\Count the Number of Duplicate Characters\obj\Debug\net5.0\Count the Number of Duplicate Characters.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\Count the Number of Duplicate Characters\obj\Debug\net5.0\Count the Number of Duplicate Characters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Count the Number of Duplicate Characters\obj\Debug\net5.0\Count the Number of Duplicate Characters.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Count the Number of Duplicate Characters\obj\Debug\net5.0\Count the Number of Duplicate Characters.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Count the Number of Duplicate Characters\obj\Debug\net5.0\Count the Number of Duplicate Characters.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Count the Number of Duplicate Characters\obj\Debug\net5.0\Count the Number of Duplicate Characters.dll
+C:\Users\omere\Desktop\Edabit\Count the Number of Duplicate Characters\obj\Debug\net5.0\ref\Count the Number of Duplicate Characters.dll
+C:\Users\omere\Desktop\Edabit\Count the Number of Duplicate Characters\obj\Debug\net5.0\Count the Number of Duplicate Characters.pdb
+C:\Users\omere\Desktop\Edabit\Count the Number of Duplicate Characters\obj\Debug\net5.0\Count the Number of Duplicate Characters.genruntimeconfig.cache

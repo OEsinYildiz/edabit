@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "J7kItYZ0RGoeLQ9QC4/sTgN47AwZHt5HTCLCII15bSh1laUMHHWBqHhnjfN8ofghSzv0eUlhgD7HKO6NSzF6eA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\OneDrive\\Masaüstü\\Edabit\\Sort Numbers in Ascending Order\\Sort Numbers in Ascending Order.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

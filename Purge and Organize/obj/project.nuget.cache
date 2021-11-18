@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jqcwKqjVYWwVH17NT4+kU4BJ5iVoFJNjudI+A6Na1Y7xGYkl+icExB0gPEUFO2weFCWFaeX4LMaz+/iBLeVkwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\OneDrive\\Masaüstü\\Edabit\\Purge and Organize\\Purge and Organize.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

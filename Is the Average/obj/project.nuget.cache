@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9fdIg3d7DpPn3kNjH/cFtgRwLjIw5V0eOxRiZV+p9pMC8QJEq7shsmg1f+vqp6rkLq+hZy/DeXixe9LAT87u4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\OneDrive\\Masaüstü\\Edabit\\Is the Average\\Is the Average.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

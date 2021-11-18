@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bWvn94Z4M41nbyYx6f7Rg/UguoAKXgK0PE3Lx2FJLGdPjl/MzhEQS350BVImTLl39BRe+QKc98oDIfqXi8FORA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\OneDrive\\Masaüstü\\Edabit\\Basic E-Mail Validation\\Basic E-Mail Validation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

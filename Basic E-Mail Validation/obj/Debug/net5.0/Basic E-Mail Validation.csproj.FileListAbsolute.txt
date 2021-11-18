@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\Basic E-Mail Validation\bin\Debug\net5.0\Basic E-Mail Validation.exe
+C:\Users\omere\Desktop\Edabit\Basic E-Mail Validation\bin\Debug\net5.0\Basic E-Mail Validation.deps.json
+C:\Users\omere\Desktop\Edabit\Basic E-Mail Validation\bin\Debug\net5.0\Basic E-Mail Validation.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Basic E-Mail Validation\bin\Debug\net5.0\Basic E-Mail Validation.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Basic E-Mail Validation\bin\Debug\net5.0\Basic E-Mail Validation.dll
+C:\Users\omere\Desktop\Edabit\Basic E-Mail Validation\bin\Debug\net5.0\ref\Basic E-Mail Validation.dll
+C:\Users\omere\Desktop\Edabit\Basic E-Mail Validation\bin\Debug\net5.0\Basic E-Mail Validation.pdb
+C:\Users\omere\Desktop\Edabit\Basic E-Mail Validation\obj\Debug\net5.0\Basic E-Mail Validation.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\Basic E-Mail Validation\obj\Debug\net5.0\Basic E-Mail Validation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Basic E-Mail Validation\obj\Debug\net5.0\Basic E-Mail Validation.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Basic E-Mail Validation\obj\Debug\net5.0\Basic E-Mail Validation.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Basic E-Mail Validation\obj\Debug\net5.0\Basic E-Mail Validation.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Basic E-Mail Validation\obj\Debug\net5.0\Basic E-Mail Validation.dll
+C:\Users\omere\Desktop\Edabit\Basic E-Mail Validation\obj\Debug\net5.0\ref\Basic E-Mail Validation.dll
+C:\Users\omere\Desktop\Edabit\Basic E-Mail Validation\obj\Debug\net5.0\Basic E-Mail Validation.pdb
+C:\Users\omere\Desktop\Edabit\Basic E-Mail Validation\obj\Debug\net5.0\Basic E-Mail Validation.genruntimeconfig.cache

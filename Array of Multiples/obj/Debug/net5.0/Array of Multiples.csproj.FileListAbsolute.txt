@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\Array of Multiples\bin\Debug\net5.0\Array of Multiples.exe
+C:\Users\omere\Desktop\Edabit\Array of Multiples\bin\Debug\net5.0\Array of Multiples.deps.json
+C:\Users\omere\Desktop\Edabit\Array of Multiples\bin\Debug\net5.0\Array of Multiples.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Array of Multiples\bin\Debug\net5.0\Array of Multiples.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Array of Multiples\bin\Debug\net5.0\Array of Multiples.dll
+C:\Users\omere\Desktop\Edabit\Array of Multiples\bin\Debug\net5.0\ref\Array of Multiples.dll
+C:\Users\omere\Desktop\Edabit\Array of Multiples\bin\Debug\net5.0\Array of Multiples.pdb
+C:\Users\omere\Desktop\Edabit\Array of Multiples\obj\Debug\net5.0\Array of Multiples.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\Array of Multiples\obj\Debug\net5.0\Array of Multiples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Array of Multiples\obj\Debug\net5.0\Array of Multiples.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Array of Multiples\obj\Debug\net5.0\Array of Multiples.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Array of Multiples\obj\Debug\net5.0\Array of Multiples.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Array of Multiples\obj\Debug\net5.0\Array of Multiples.dll
+C:\Users\omere\Desktop\Edabit\Array of Multiples\obj\Debug\net5.0\ref\Array of Multiples.dll
+C:\Users\omere\Desktop\Edabit\Array of Multiples\obj\Debug\net5.0\Array of Multiples.pdb
+C:\Users\omere\Desktop\Edabit\Array of Multiples\obj\Debug\net5.0\Array of Multiples.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Shuffle the Name/1.0.0": {
+        "runtime": {
+          "Shuffle the Name.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Shuffle the Name/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

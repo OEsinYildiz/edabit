@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\Smooth Sentences\bin\Debug\net5.0\Smooth Sentences.exe
+C:\Users\omere\Desktop\Edabit\Smooth Sentences\bin\Debug\net5.0\Smooth Sentences.deps.json
+C:\Users\omere\Desktop\Edabit\Smooth Sentences\bin\Debug\net5.0\Smooth Sentences.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Smooth Sentences\bin\Debug\net5.0\Smooth Sentences.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Smooth Sentences\bin\Debug\net5.0\Smooth Sentences.dll
+C:\Users\omere\Desktop\Edabit\Smooth Sentences\bin\Debug\net5.0\ref\Smooth Sentences.dll
+C:\Users\omere\Desktop\Edabit\Smooth Sentences\bin\Debug\net5.0\Smooth Sentences.pdb
+C:\Users\omere\Desktop\Edabit\Smooth Sentences\obj\Debug\net5.0\Smooth Sentences.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\Smooth Sentences\obj\Debug\net5.0\Smooth Sentences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Smooth Sentences\obj\Debug\net5.0\Smooth Sentences.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Smooth Sentences\obj\Debug\net5.0\Smooth Sentences.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Smooth Sentences\obj\Debug\net5.0\Smooth Sentences.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Smooth Sentences\obj\Debug\net5.0\Smooth Sentences.dll
+C:\Users\omere\Desktop\Edabit\Smooth Sentences\obj\Debug\net5.0\ref\Smooth Sentences.dll
+C:\Users\omere\Desktop\Edabit\Smooth Sentences\obj\Debug\net5.0\Smooth Sentences.pdb
+C:\Users\omere\Desktop\Edabit\Smooth Sentences\obj\Debug\net5.0\Smooth Sentences.genruntimeconfig.cache

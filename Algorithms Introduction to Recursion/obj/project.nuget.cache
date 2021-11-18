@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F+R+QpFijXMHbQu8bmGOkv8f1a92uGhNoeTC6653bMBGmNp9gxTvY7hIRM8LkHFtePCcYdF6sWvG+2saIh2plg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\OneDrive\\Masaüstü\\Edabit\\Algorithms Introduction to Recursion\\Algorithms Introduction to Recursion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

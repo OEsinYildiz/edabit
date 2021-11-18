@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Check if a String Contains only Identical Characters/1.0.0": {
+        "runtime": {
+          "Check if a String Contains only Identical Characters.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Check if a String Contains only Identical Characters/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

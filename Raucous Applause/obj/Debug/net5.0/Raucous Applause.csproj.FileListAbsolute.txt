@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\Raucous Applause\bin\Debug\net5.0\Raucous Applause.exe
+C:\Users\omere\Desktop\Edabit\Raucous Applause\bin\Debug\net5.0\Raucous Applause.deps.json
+C:\Users\omere\Desktop\Edabit\Raucous Applause\bin\Debug\net5.0\Raucous Applause.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Raucous Applause\bin\Debug\net5.0\Raucous Applause.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Raucous Applause\bin\Debug\net5.0\Raucous Applause.dll
+C:\Users\omere\Desktop\Edabit\Raucous Applause\bin\Debug\net5.0\ref\Raucous Applause.dll
+C:\Users\omere\Desktop\Edabit\Raucous Applause\bin\Debug\net5.0\Raucous Applause.pdb
+C:\Users\omere\Desktop\Edabit\Raucous Applause\obj\Debug\net5.0\Raucous Applause.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\Raucous Applause\obj\Debug\net5.0\Raucous Applause.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Raucous Applause\obj\Debug\net5.0\Raucous Applause.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Raucous Applause\obj\Debug\net5.0\Raucous Applause.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Raucous Applause\obj\Debug\net5.0\Raucous Applause.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Raucous Applause\obj\Debug\net5.0\Raucous Applause.dll
+C:\Users\omere\Desktop\Edabit\Raucous Applause\obj\Debug\net5.0\ref\Raucous Applause.dll
+C:\Users\omere\Desktop\Edabit\Raucous Applause\obj\Debug\net5.0\Raucous Applause.pdb
+C:\Users\omere\Desktop\Edabit\Raucous Applause\obj\Debug\net5.0\Raucous Applause.genruntimeconfig.cache

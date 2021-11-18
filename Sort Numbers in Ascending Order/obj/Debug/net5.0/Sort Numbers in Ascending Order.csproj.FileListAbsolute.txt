@@ -1,0 +1,15 @@
+C:\Users\omere\Desktop\Edabit\Sort Numbers in Ascending Order\bin\Debug\net5.0\Sort Numbers in Ascending Order.exe
+C:\Users\omere\Desktop\Edabit\Sort Numbers in Ascending Order\bin\Debug\net5.0\Sort Numbers in Ascending Order.deps.json
+C:\Users\omere\Desktop\Edabit\Sort Numbers in Ascending Order\bin\Debug\net5.0\Sort Numbers in Ascending Order.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Sort Numbers in Ascending Order\bin\Debug\net5.0\Sort Numbers in Ascending Order.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Sort Numbers in Ascending Order\bin\Debug\net5.0\Sort Numbers in Ascending Order.dll
+C:\Users\omere\Desktop\Edabit\Sort Numbers in Ascending Order\bin\Debug\net5.0\ref\Sort Numbers in Ascending Order.dll
+C:\Users\omere\Desktop\Edabit\Sort Numbers in Ascending Order\bin\Debug\net5.0\Sort Numbers in Ascending Order.pdb
+C:\Users\omere\Desktop\Edabit\Sort Numbers in Ascending Order\obj\Debug\net5.0\Sort Numbers in Ascending Order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Sort Numbers in Ascending Order\obj\Debug\net5.0\Sort Numbers in Ascending Order.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Sort Numbers in Ascending Order\obj\Debug\net5.0\Sort Numbers in Ascending Order.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Sort Numbers in Ascending Order\obj\Debug\net5.0\Sort Numbers in Ascending Order.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Sort Numbers in Ascending Order\obj\Debug\net5.0\Sort Numbers in Ascending Order.dll
+C:\Users\omere\Desktop\Edabit\Sort Numbers in Ascending Order\obj\Debug\net5.0\ref\Sort Numbers in Ascending Order.dll
+C:\Users\omere\Desktop\Edabit\Sort Numbers in Ascending Order\obj\Debug\net5.0\Sort Numbers in Ascending Order.pdb
+C:\Users\omere\Desktop\Edabit\Sort Numbers in Ascending Order\obj\Debug\net5.0\Sort Numbers in Ascending Order.genruntimeconfig.cache

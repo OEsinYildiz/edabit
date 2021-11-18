@@ -1,0 +1,31 @@
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\H4ck3r Sp34k\bin\Debug\net5.0\H4ck3r Sp34k.exe
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\H4ck3r Sp34k\bin\Debug\net5.0\H4ck3r Sp34k.deps.json
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\H4ck3r Sp34k\bin\Debug\net5.0\H4ck3r Sp34k.runtimeconfig.json
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\H4ck3r Sp34k\bin\Debug\net5.0\H4ck3r Sp34k.runtimeconfig.dev.json
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\H4ck3r Sp34k\bin\Debug\net5.0\H4ck3r Sp34k.dll
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\H4ck3r Sp34k\bin\Debug\net5.0\ref\H4ck3r Sp34k.dll
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\H4ck3r Sp34k\bin\Debug\net5.0\H4ck3r Sp34k.pdb
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\H4ck3r Sp34k\obj\Debug\net5.0\H4ck3r Sp34k.csprojAssemblyReference.cache
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\H4ck3r Sp34k\obj\Debug\net5.0\H4ck3r Sp34k.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\H4ck3r Sp34k\obj\Debug\net5.0\H4ck3r Sp34k.AssemblyInfoInputs.cache
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\H4ck3r Sp34k\obj\Debug\net5.0\H4ck3r Sp34k.AssemblyInfo.cs
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\H4ck3r Sp34k\obj\Debug\net5.0\H4ck3r Sp34k.csproj.CoreCompileInputs.cache
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\H4ck3r Sp34k\obj\Debug\net5.0\H4ck3r Sp34k.dll
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\H4ck3r Sp34k\obj\Debug\net5.0\ref\H4ck3r Sp34k.dll
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\H4ck3r Sp34k\obj\Debug\net5.0\H4ck3r Sp34k.pdb
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\H4ck3r Sp34k\obj\Debug\net5.0\H4ck3r Sp34k.genruntimeconfig.cache
+C:\Users\omere\Desktop\Edabit\H4ck3r Sp34k\bin\Debug\net5.0\H4ck3r Sp34k.exe
+C:\Users\omere\Desktop\Edabit\H4ck3r Sp34k\bin\Debug\net5.0\H4ck3r Sp34k.deps.json
+C:\Users\omere\Desktop\Edabit\H4ck3r Sp34k\bin\Debug\net5.0\H4ck3r Sp34k.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\H4ck3r Sp34k\bin\Debug\net5.0\H4ck3r Sp34k.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\H4ck3r Sp34k\bin\Debug\net5.0\H4ck3r Sp34k.dll
+C:\Users\omere\Desktop\Edabit\H4ck3r Sp34k\bin\Debug\net5.0\ref\H4ck3r Sp34k.dll
+C:\Users\omere\Desktop\Edabit\H4ck3r Sp34k\bin\Debug\net5.0\H4ck3r Sp34k.pdb
+C:\Users\omere\Desktop\Edabit\H4ck3r Sp34k\obj\Debug\net5.0\H4ck3r Sp34k.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\H4ck3r Sp34k\obj\Debug\net5.0\H4ck3r Sp34k.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\H4ck3r Sp34k\obj\Debug\net5.0\H4ck3r Sp34k.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\H4ck3r Sp34k\obj\Debug\net5.0\H4ck3r Sp34k.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\H4ck3r Sp34k\obj\Debug\net5.0\H4ck3r Sp34k.dll
+C:\Users\omere\Desktop\Edabit\H4ck3r Sp34k\obj\Debug\net5.0\ref\H4ck3r Sp34k.dll
+C:\Users\omere\Desktop\Edabit\H4ck3r Sp34k\obj\Debug\net5.0\H4ck3r Sp34k.pdb
+C:\Users\omere\Desktop\Edabit\H4ck3r Sp34k\obj\Debug\net5.0\H4ck3r Sp34k.genruntimeconfig.cache

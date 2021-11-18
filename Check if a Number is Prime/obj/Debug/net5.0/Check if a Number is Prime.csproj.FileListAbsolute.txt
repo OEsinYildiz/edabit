@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\Check if a Number is Prime\bin\Debug\net5.0\Check if a Number is Prime.exe
+C:\Users\omere\Desktop\Edabit\Check if a Number is Prime\bin\Debug\net5.0\Check if a Number is Prime.deps.json
+C:\Users\omere\Desktop\Edabit\Check if a Number is Prime\bin\Debug\net5.0\Check if a Number is Prime.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Check if a Number is Prime\bin\Debug\net5.0\Check if a Number is Prime.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Check if a Number is Prime\bin\Debug\net5.0\Check if a Number is Prime.dll
+C:\Users\omere\Desktop\Edabit\Check if a Number is Prime\bin\Debug\net5.0\ref\Check if a Number is Prime.dll
+C:\Users\omere\Desktop\Edabit\Check if a Number is Prime\bin\Debug\net5.0\Check if a Number is Prime.pdb
+C:\Users\omere\Desktop\Edabit\Check if a Number is Prime\obj\Debug\net5.0\Check if a Number is Prime.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\Check if a Number is Prime\obj\Debug\net5.0\Check if a Number is Prime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Check if a Number is Prime\obj\Debug\net5.0\Check if a Number is Prime.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Check if a Number is Prime\obj\Debug\net5.0\Check if a Number is Prime.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Check if a Number is Prime\obj\Debug\net5.0\Check if a Number is Prime.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Check if a Number is Prime\obj\Debug\net5.0\Check if a Number is Prime.dll
+C:\Users\omere\Desktop\Edabit\Check if a Number is Prime\obj\Debug\net5.0\ref\Check if a Number is Prime.dll
+C:\Users\omere\Desktop\Edabit\Check if a Number is Prime\obj\Debug\net5.0\Check if a Number is Prime.pdb
+C:\Users\omere\Desktop\Edabit\Check if a Number is Prime\obj\Debug\net5.0\Check if a Number is Prime.genruntimeconfig.cache

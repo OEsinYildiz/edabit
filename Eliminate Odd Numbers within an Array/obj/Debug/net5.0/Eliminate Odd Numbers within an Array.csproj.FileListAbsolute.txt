@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\Eliminate Odd Numbers within an Array\bin\Debug\net5.0\Eliminate Odd Numbers within an Array.exe
+C:\Users\omere\Desktop\Edabit\Eliminate Odd Numbers within an Array\bin\Debug\net5.0\Eliminate Odd Numbers within an Array.deps.json
+C:\Users\omere\Desktop\Edabit\Eliminate Odd Numbers within an Array\bin\Debug\net5.0\Eliminate Odd Numbers within an Array.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Eliminate Odd Numbers within an Array\bin\Debug\net5.0\Eliminate Odd Numbers within an Array.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Eliminate Odd Numbers within an Array\bin\Debug\net5.0\Eliminate Odd Numbers within an Array.dll
+C:\Users\omere\Desktop\Edabit\Eliminate Odd Numbers within an Array\bin\Debug\net5.0\ref\Eliminate Odd Numbers within an Array.dll
+C:\Users\omere\Desktop\Edabit\Eliminate Odd Numbers within an Array\bin\Debug\net5.0\Eliminate Odd Numbers within an Array.pdb
+C:\Users\omere\Desktop\Edabit\Eliminate Odd Numbers within an Array\obj\Debug\net5.0\Eliminate Odd Numbers within an Array.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\Eliminate Odd Numbers within an Array\obj\Debug\net5.0\Eliminate Odd Numbers within an Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Eliminate Odd Numbers within an Array\obj\Debug\net5.0\Eliminate Odd Numbers within an Array.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Eliminate Odd Numbers within an Array\obj\Debug\net5.0\Eliminate Odd Numbers within an Array.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Eliminate Odd Numbers within an Array\obj\Debug\net5.0\Eliminate Odd Numbers within an Array.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Eliminate Odd Numbers within an Array\obj\Debug\net5.0\Eliminate Odd Numbers within an Array.dll
+C:\Users\omere\Desktop\Edabit\Eliminate Odd Numbers within an Array\obj\Debug\net5.0\ref\Eliminate Odd Numbers within an Array.dll
+C:\Users\omere\Desktop\Edabit\Eliminate Odd Numbers within an Array\obj\Debug\net5.0\Eliminate Odd Numbers within an Array.pdb
+C:\Users\omere\Desktop\Edabit\Eliminate Odd Numbers within an Array\obj\Debug\net5.0\Eliminate Odd Numbers within an Array.genruntimeconfig.cache

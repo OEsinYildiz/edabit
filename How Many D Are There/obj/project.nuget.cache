@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SE5lK01/dORTm3Wl8n3rSOrk3OqJh2n2JIruvWRYkZKKU7aSQ4raMyg2H8B8QWAdD57qkZpOMuQRNUars3OM7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\OneDrive\\Masaüstü\\Edabit\\How Many D Are There\\How Many D Are There.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

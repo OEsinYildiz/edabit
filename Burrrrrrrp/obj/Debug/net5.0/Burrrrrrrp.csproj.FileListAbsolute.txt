@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\Burrrrrrrp\bin\Debug\net5.0\Burrrrrrrp.exe
+C:\Users\omere\Desktop\Edabit\Burrrrrrrp\bin\Debug\net5.0\Burrrrrrrp.deps.json
+C:\Users\omere\Desktop\Edabit\Burrrrrrrp\bin\Debug\net5.0\Burrrrrrrp.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Burrrrrrrp\bin\Debug\net5.0\Burrrrrrrp.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Burrrrrrrp\bin\Debug\net5.0\Burrrrrrrp.dll
+C:\Users\omere\Desktop\Edabit\Burrrrrrrp\bin\Debug\net5.0\ref\Burrrrrrrp.dll
+C:\Users\omere\Desktop\Edabit\Burrrrrrrp\bin\Debug\net5.0\Burrrrrrrp.pdb
+C:\Users\omere\Desktop\Edabit\Burrrrrrrp\obj\Debug\net5.0\Burrrrrrrp.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\Burrrrrrrp\obj\Debug\net5.0\Burrrrrrrp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Burrrrrrrp\obj\Debug\net5.0\Burrrrrrrp.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Burrrrrrrp\obj\Debug\net5.0\Burrrrrrrp.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Burrrrrrrp\obj\Debug\net5.0\Burrrrrrrp.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Burrrrrrrp\obj\Debug\net5.0\Burrrrrrrp.dll
+C:\Users\omere\Desktop\Edabit\Burrrrrrrp\obj\Debug\net5.0\ref\Burrrrrrrp.dll
+C:\Users\omere\Desktop\Edabit\Burrrrrrrp\obj\Debug\net5.0\Burrrrrrrp.pdb
+C:\Users\omere\Desktop\Edabit\Burrrrrrrp\obj\Debug\net5.0\Burrrrrrrp.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\Date Format\bin\Debug\net5.0\Date Format.exe
+C:\Users\omere\Desktop\Edabit\Date Format\bin\Debug\net5.0\Date Format.deps.json
+C:\Users\omere\Desktop\Edabit\Date Format\bin\Debug\net5.0\Date Format.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Date Format\bin\Debug\net5.0\Date Format.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Date Format\bin\Debug\net5.0\Date Format.dll
+C:\Users\omere\Desktop\Edabit\Date Format\bin\Debug\net5.0\ref\Date Format.dll
+C:\Users\omere\Desktop\Edabit\Date Format\bin\Debug\net5.0\Date Format.pdb
+C:\Users\omere\Desktop\Edabit\Date Format\obj\Debug\net5.0\Date Format.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\Date Format\obj\Debug\net5.0\Date Format.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Date Format\obj\Debug\net5.0\Date Format.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Date Format\obj\Debug\net5.0\Date Format.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Date Format\obj\Debug\net5.0\Date Format.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Date Format\obj\Debug\net5.0\Date Format.dll
+C:\Users\omere\Desktop\Edabit\Date Format\obj\Debug\net5.0\ref\Date Format.dll
+C:\Users\omere\Desktop\Edabit\Date Format\obj\Debug\net5.0\Date Format.pdb
+C:\Users\omere\Desktop\Edabit\Date Format\obj\Debug\net5.0\Date Format.genruntimeconfig.cache

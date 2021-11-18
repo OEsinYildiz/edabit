@@ -1,0 +1,15 @@
+C:\Users\omere\Desktop\Edabit\Smaller String Number\bin\Debug\net5.0\Smaller String Number.exe
+C:\Users\omere\Desktop\Edabit\Smaller String Number\bin\Debug\net5.0\Smaller String Number.deps.json
+C:\Users\omere\Desktop\Edabit\Smaller String Number\bin\Debug\net5.0\Smaller String Number.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Smaller String Number\bin\Debug\net5.0\Smaller String Number.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Smaller String Number\bin\Debug\net5.0\Smaller String Number.dll
+C:\Users\omere\Desktop\Edabit\Smaller String Number\bin\Debug\net5.0\ref\Smaller String Number.dll
+C:\Users\omere\Desktop\Edabit\Smaller String Number\bin\Debug\net5.0\Smaller String Number.pdb
+C:\Users\omere\Desktop\Edabit\Smaller String Number\obj\Debug\net5.0\Smaller String Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Smaller String Number\obj\Debug\net5.0\Smaller String Number.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Smaller String Number\obj\Debug\net5.0\Smaller String Number.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Smaller String Number\obj\Debug\net5.0\Smaller String Number.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Smaller String Number\obj\Debug\net5.0\Smaller String Number.dll
+C:\Users\omere\Desktop\Edabit\Smaller String Number\obj\Debug\net5.0\ref\Smaller String Number.dll
+C:\Users\omere\Desktop\Edabit\Smaller String Number\obj\Debug\net5.0\Smaller String Number.pdb
+C:\Users\omere\Desktop\Edabit\Smaller String Number\obj\Debug\net5.0\Smaller String Number.genruntimeconfig.cache

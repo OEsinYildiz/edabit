@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\Among Us Imposter Formula\bin\Debug\net5.0\Among Us Imposter Formula.exe
+C:\Users\omere\Desktop\Edabit\Among Us Imposter Formula\bin\Debug\net5.0\Among Us Imposter Formula.deps.json
+C:\Users\omere\Desktop\Edabit\Among Us Imposter Formula\bin\Debug\net5.0\Among Us Imposter Formula.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Among Us Imposter Formula\bin\Debug\net5.0\Among Us Imposter Formula.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Among Us Imposter Formula\bin\Debug\net5.0\Among Us Imposter Formula.dll
+C:\Users\omere\Desktop\Edabit\Among Us Imposter Formula\bin\Debug\net5.0\ref\Among Us Imposter Formula.dll
+C:\Users\omere\Desktop\Edabit\Among Us Imposter Formula\bin\Debug\net5.0\Among Us Imposter Formula.pdb
+C:\Users\omere\Desktop\Edabit\Among Us Imposter Formula\obj\Debug\net5.0\Among Us Imposter Formula.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\Among Us Imposter Formula\obj\Debug\net5.0\Among Us Imposter Formula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Among Us Imposter Formula\obj\Debug\net5.0\Among Us Imposter Formula.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Among Us Imposter Formula\obj\Debug\net5.0\Among Us Imposter Formula.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Among Us Imposter Formula\obj\Debug\net5.0\Among Us Imposter Formula.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Among Us Imposter Formula\obj\Debug\net5.0\Among Us Imposter Formula.dll
+C:\Users\omere\Desktop\Edabit\Among Us Imposter Formula\obj\Debug\net5.0\ref\Among Us Imposter Formula.dll
+C:\Users\omere\Desktop\Edabit\Among Us Imposter Formula\obj\Debug\net5.0\Among Us Imposter Formula.pdb
+C:\Users\omere\Desktop\Edabit\Among Us Imposter Formula\obj\Debug\net5.0\Among Us Imposter Formula.genruntimeconfig.cache

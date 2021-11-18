@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VPIIkKe1kgIxMAeH1rVC8Y4do55Ka/QBYVG9j/uY+XOnVqOSBQKwtPBzwHCzD0X8daY6B77WOya6kzA2FLba7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\OneDrive\\Masaüstü\\Edabit\\ReverseAndNot\\ReverseAndNot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\Reverse and Capitalize\bin\Debug\net5.0\Reverse and Capitalize.exe
+C:\Users\omere\Desktop\Edabit\Reverse and Capitalize\bin\Debug\net5.0\Reverse and Capitalize.deps.json
+C:\Users\omere\Desktop\Edabit\Reverse and Capitalize\bin\Debug\net5.0\Reverse and Capitalize.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Reverse and Capitalize\bin\Debug\net5.0\Reverse and Capitalize.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Reverse and Capitalize\bin\Debug\net5.0\Reverse and Capitalize.dll
+C:\Users\omere\Desktop\Edabit\Reverse and Capitalize\bin\Debug\net5.0\ref\Reverse and Capitalize.dll
+C:\Users\omere\Desktop\Edabit\Reverse and Capitalize\bin\Debug\net5.0\Reverse and Capitalize.pdb
+C:\Users\omere\Desktop\Edabit\Reverse and Capitalize\obj\Debug\net5.0\Reverse and Capitalize.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\Reverse and Capitalize\obj\Debug\net5.0\Reverse and Capitalize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Reverse and Capitalize\obj\Debug\net5.0\Reverse and Capitalize.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Reverse and Capitalize\obj\Debug\net5.0\Reverse and Capitalize.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Reverse and Capitalize\obj\Debug\net5.0\Reverse and Capitalize.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Reverse and Capitalize\obj\Debug\net5.0\Reverse and Capitalize.dll
+C:\Users\omere\Desktop\Edabit\Reverse and Capitalize\obj\Debug\net5.0\ref\Reverse and Capitalize.dll
+C:\Users\omere\Desktop\Edabit\Reverse and Capitalize\obj\Debug\net5.0\Reverse and Capitalize.pdb
+C:\Users\omere\Desktop\Edabit\Reverse and Capitalize\obj\Debug\net5.0\Reverse and Capitalize.genruntimeconfig.cache

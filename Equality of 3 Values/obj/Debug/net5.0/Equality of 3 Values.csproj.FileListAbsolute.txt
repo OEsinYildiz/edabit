@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\Equality of 3 Values\bin\Debug\net5.0\Equality of 3 Values.exe
+C:\Users\omere\Desktop\Edabit\Equality of 3 Values\bin\Debug\net5.0\Equality of 3 Values.deps.json
+C:\Users\omere\Desktop\Edabit\Equality of 3 Values\bin\Debug\net5.0\Equality of 3 Values.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Equality of 3 Values\bin\Debug\net5.0\Equality of 3 Values.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Equality of 3 Values\bin\Debug\net5.0\Equality of 3 Values.dll
+C:\Users\omere\Desktop\Edabit\Equality of 3 Values\bin\Debug\net5.0\ref\Equality of 3 Values.dll
+C:\Users\omere\Desktop\Edabit\Equality of 3 Values\bin\Debug\net5.0\Equality of 3 Values.pdb
+C:\Users\omere\Desktop\Edabit\Equality of 3 Values\obj\Debug\net5.0\Equality of 3 Values.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\Equality of 3 Values\obj\Debug\net5.0\Equality of 3 Values.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Equality of 3 Values\obj\Debug\net5.0\Equality of 3 Values.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Equality of 3 Values\obj\Debug\net5.0\Equality of 3 Values.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Equality of 3 Values\obj\Debug\net5.0\Equality of 3 Values.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Equality of 3 Values\obj\Debug\net5.0\Equality of 3 Values.dll
+C:\Users\omere\Desktop\Edabit\Equality of 3 Values\obj\Debug\net5.0\ref\Equality of 3 Values.dll
+C:\Users\omere\Desktop\Edabit\Equality of 3 Values\obj\Debug\net5.0\Equality of 3 Values.pdb
+C:\Users\omere\Desktop\Edabit\Equality of 3 Values\obj\Debug\net5.0\Equality of 3 Values.genruntimeconfig.cache

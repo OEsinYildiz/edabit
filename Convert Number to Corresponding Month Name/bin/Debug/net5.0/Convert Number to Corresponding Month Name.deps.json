@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Convert Number to Corresponding Month Name/1.0.0": {
+        "runtime": {
+          "Convert Number to Corresponding Month Name.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Convert Number to Corresponding Month Name/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

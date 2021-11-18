@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\How Many D Are There\bin\Debug\net5.0\How Many D Are There.exe
+C:\Users\omere\Desktop\Edabit\How Many D Are There\bin\Debug\net5.0\How Many D Are There.deps.json
+C:\Users\omere\Desktop\Edabit\How Many D Are There\bin\Debug\net5.0\How Many D Are There.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\How Many D Are There\bin\Debug\net5.0\How Many D Are There.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\How Many D Are There\bin\Debug\net5.0\How Many D Are There.dll
+C:\Users\omere\Desktop\Edabit\How Many D Are There\bin\Debug\net5.0\ref\How Many D Are There.dll
+C:\Users\omere\Desktop\Edabit\How Many D Are There\bin\Debug\net5.0\How Many D Are There.pdb
+C:\Users\omere\Desktop\Edabit\How Many D Are There\obj\Debug\net5.0\How Many D Are There.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\How Many D Are There\obj\Debug\net5.0\How Many D Are There.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\How Many D Are There\obj\Debug\net5.0\How Many D Are There.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\How Many D Are There\obj\Debug\net5.0\How Many D Are There.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\How Many D Are There\obj\Debug\net5.0\How Many D Are There.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\How Many D Are There\obj\Debug\net5.0\How Many D Are There.dll
+C:\Users\omere\Desktop\Edabit\How Many D Are There\obj\Debug\net5.0\ref\How Many D Are There.dll
+C:\Users\omere\Desktop\Edabit\How Many D Are There\obj\Debug\net5.0\How Many D Are There.pdb
+C:\Users\omere\Desktop\Edabit\How Many D Are There\obj\Debug\net5.0\How Many D Are There.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\Hashes and Pluses\bin\Debug\net5.0\Hashes and Pluses.exe
+C:\Users\omere\Desktop\Edabit\Hashes and Pluses\bin\Debug\net5.0\Hashes and Pluses.deps.json
+C:\Users\omere\Desktop\Edabit\Hashes and Pluses\bin\Debug\net5.0\Hashes and Pluses.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Hashes and Pluses\bin\Debug\net5.0\Hashes and Pluses.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Hashes and Pluses\bin\Debug\net5.0\Hashes and Pluses.dll
+C:\Users\omere\Desktop\Edabit\Hashes and Pluses\bin\Debug\net5.0\ref\Hashes and Pluses.dll
+C:\Users\omere\Desktop\Edabit\Hashes and Pluses\bin\Debug\net5.0\Hashes and Pluses.pdb
+C:\Users\omere\Desktop\Edabit\Hashes and Pluses\obj\Debug\net5.0\Hashes and Pluses.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\Hashes and Pluses\obj\Debug\net5.0\Hashes and Pluses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Hashes and Pluses\obj\Debug\net5.0\Hashes and Pluses.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Hashes and Pluses\obj\Debug\net5.0\Hashes and Pluses.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Hashes and Pluses\obj\Debug\net5.0\Hashes and Pluses.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Hashes and Pluses\obj\Debug\net5.0\Hashes and Pluses.dll
+C:\Users\omere\Desktop\Edabit\Hashes and Pluses\obj\Debug\net5.0\ref\Hashes and Pluses.dll
+C:\Users\omere\Desktop\Edabit\Hashes and Pluses\obj\Debug\net5.0\Hashes and Pluses.pdb
+C:\Users\omere\Desktop\Edabit\Hashes and Pluses\obj\Debug\net5.0\Hashes and Pluses.genruntimeconfig.cache

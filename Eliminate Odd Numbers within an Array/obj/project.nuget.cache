@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6TsxDpWZYshhnsCBHkshrARlYF76ft1loeYNYnXwX0R4eN7x7jUNj73nJL9ZC3rJhTacdgvi6fj4QvjRixoR7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\OneDrive\\Masaüstü\\Edabit\\Eliminate Odd Numbers within an Array\\Eliminate Odd Numbers within an Array.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

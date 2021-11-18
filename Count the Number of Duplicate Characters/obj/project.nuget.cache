@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cocCQcdZ8BgptV3EqTlIv2Nh+ETs6+IeHOf7DqgchP1SCOJnJpTpC/4pr6aY+FhsZSq/E/ANiXICEzGj5VHUgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\OneDrive\\Masaüstü\\Edabit\\Count the Number of Duplicate Characters\\Count the Number of Duplicate Characters.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

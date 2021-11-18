@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bo/9nlXkLaVHbNZra/cMoO75K1HFyUN0VJt8ZsYdfWBBQ6BZH7acoMhysJz1TH3Ba8R25X58RJDLT9r0pZ7DpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\OneDrive\\Masaüstü\\Edabit\\Repeating Letters\\Repeating Letters.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

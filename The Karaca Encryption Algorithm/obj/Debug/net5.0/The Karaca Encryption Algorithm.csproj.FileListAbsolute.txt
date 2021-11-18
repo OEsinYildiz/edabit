@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Edabit\The Karaca Encryption Algorithm\bin\Debug\net5.0\The Karaca Encryption Algorithm.exe
+C:\Users\omere\Desktop\Edabit\The Karaca Encryption Algorithm\bin\Debug\net5.0\The Karaca Encryption Algorithm.deps.json
+C:\Users\omere\Desktop\Edabit\The Karaca Encryption Algorithm\bin\Debug\net5.0\The Karaca Encryption Algorithm.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\The Karaca Encryption Algorithm\bin\Debug\net5.0\The Karaca Encryption Algorithm.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\The Karaca Encryption Algorithm\bin\Debug\net5.0\The Karaca Encryption Algorithm.dll
+C:\Users\omere\Desktop\Edabit\The Karaca Encryption Algorithm\bin\Debug\net5.0\ref\The Karaca Encryption Algorithm.dll
+C:\Users\omere\Desktop\Edabit\The Karaca Encryption Algorithm\bin\Debug\net5.0\The Karaca Encryption Algorithm.pdb
+C:\Users\omere\Desktop\Edabit\The Karaca Encryption Algorithm\obj\Debug\net5.0\The Karaca Encryption Algorithm.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\The Karaca Encryption Algorithm\obj\Debug\net5.0\The Karaca Encryption Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\The Karaca Encryption Algorithm\obj\Debug\net5.0\The Karaca Encryption Algorithm.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\The Karaca Encryption Algorithm\obj\Debug\net5.0\The Karaca Encryption Algorithm.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\The Karaca Encryption Algorithm\obj\Debug\net5.0\The Karaca Encryption Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\The Karaca Encryption Algorithm\obj\Debug\net5.0\The Karaca Encryption Algorithm.dll
+C:\Users\omere\Desktop\Edabit\The Karaca Encryption Algorithm\obj\Debug\net5.0\ref\The Karaca Encryption Algorithm.dll
+C:\Users\omere\Desktop\Edabit\The Karaca Encryption Algorithm\obj\Debug\net5.0\The Karaca Encryption Algorithm.pdb
+C:\Users\omere\Desktop\Edabit\The Karaca Encryption Algorithm\obj\Debug\net5.0\The Karaca Encryption Algorithm.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\omere\Desktop\Edabit\FizzBuzz Interview Question\bin\Debug\net5.0\FizzBuzz Interview Question.exe
+C:\Users\omere\Desktop\Edabit\FizzBuzz Interview Question\bin\Debug\net5.0\FizzBuzz Interview Question.deps.json
+C:\Users\omere\Desktop\Edabit\FizzBuzz Interview Question\bin\Debug\net5.0\FizzBuzz Interview Question.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\FizzBuzz Interview Question\bin\Debug\net5.0\FizzBuzz Interview Question.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\FizzBuzz Interview Question\bin\Debug\net5.0\FizzBuzz Interview Question.dll
+C:\Users\omere\Desktop\Edabit\FizzBuzz Interview Question\bin\Debug\net5.0\ref\FizzBuzz Interview Question.dll
+C:\Users\omere\Desktop\Edabit\FizzBuzz Interview Question\bin\Debug\net5.0\FizzBuzz Interview Question.pdb
+C:\Users\omere\Desktop\Edabit\FizzBuzz Interview Question\obj\Debug\net5.0\FizzBuzz Interview Question.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\FizzBuzz Interview Question\obj\Debug\net5.0\FizzBuzz Interview Question.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\FizzBuzz Interview Question\obj\Debug\net5.0\FizzBuzz Interview Question.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\FizzBuzz Interview Question\obj\Debug\net5.0\FizzBuzz Interview Question.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\FizzBuzz Interview Question\obj\Debug\net5.0\FizzBuzz Interview Question.dll
+C:\Users\omere\Desktop\Edabit\FizzBuzz Interview Question\obj\Debug\net5.0\ref\FizzBuzz Interview Question.dll
+C:\Users\omere\Desktop\Edabit\FizzBuzz Interview Question\obj\Debug\net5.0\FizzBuzz Interview Question.pdb
+C:\Users\omere\Desktop\Edabit\FizzBuzz Interview Question\obj\Debug\net5.0\FizzBuzz Interview Question.genruntimeconfig.cache

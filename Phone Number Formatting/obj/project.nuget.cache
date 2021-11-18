@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zP6hSu5smy39wO2au3pDXXvaiBVWiPgxkgC5z8BQNYiAHNEXj9unKrLw8+bFd9R/Xxkc7EcRfK+dLv6D1v7PNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\OneDrive\\Masaüstü\\Edabit\\Phone Number Formatting\\Phone Number Formatting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

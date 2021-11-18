@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tg7rK24+KfdottonKBriqlhOyYUnWDBCzgP8Zx0wg6S98h4eEl7SwHccTjFtTP7vYRxZF6SCUis2gzNFlPfk8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\OneDrive\\Masaüstü\\Edabit\\Convert All Array Items to String\\Convert All Array Items to String.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,21 @@
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Convert Number to Corresponding Month Name\obj\Debug\net5.0\Convert Number to Corresponding Month Name.csprojAssemblyReference.cache
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Convert Number to Corresponding Month Name\obj\Debug\net5.0\Convert Number to Corresponding Month Name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Convert Number to Corresponding Month Name\obj\Debug\net5.0\Convert Number to Corresponding Month Name.AssemblyInfoInputs.cache
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Convert Number to Corresponding Month Name\obj\Debug\net5.0\Convert Number to Corresponding Month Name.AssemblyInfo.cs
+C:\Users\omere\Documents\Uyelik Sistemi\Edabit\Convert Number to Corresponding Month Name\obj\Debug\net5.0\Convert Number to Corresponding Month Name.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Convert Number to Corresponding Month Name\bin\Debug\net5.0\Convert Number to Corresponding Month Name.exe
+C:\Users\omere\Desktop\Edabit\Convert Number to Corresponding Month Name\bin\Debug\net5.0\Convert Number to Corresponding Month Name.deps.json
+C:\Users\omere\Desktop\Edabit\Convert Number to Corresponding Month Name\bin\Debug\net5.0\Convert Number to Corresponding Month Name.runtimeconfig.json
+C:\Users\omere\Desktop\Edabit\Convert Number to Corresponding Month Name\bin\Debug\net5.0\Convert Number to Corresponding Month Name.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Edabit\Convert Number to Corresponding Month Name\bin\Debug\net5.0\Convert Number to Corresponding Month Name.dll
+C:\Users\omere\Desktop\Edabit\Convert Number to Corresponding Month Name\bin\Debug\net5.0\ref\Convert Number to Corresponding Month Name.dll
+C:\Users\omere\Desktop\Edabit\Convert Number to Corresponding Month Name\bin\Debug\net5.0\Convert Number to Corresponding Month Name.pdb
+C:\Users\omere\Desktop\Edabit\Convert Number to Corresponding Month Name\obj\Debug\net5.0\Convert Number to Corresponding Month Name.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Edabit\Convert Number to Corresponding Month Name\obj\Debug\net5.0\Convert Number to Corresponding Month Name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Edabit\Convert Number to Corresponding Month Name\obj\Debug\net5.0\Convert Number to Corresponding Month Name.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Edabit\Convert Number to Corresponding Month Name\obj\Debug\net5.0\Convert Number to Corresponding Month Name.AssemblyInfo.cs
+C:\Users\omere\Desktop\Edabit\Convert Number to Corresponding Month Name\obj\Debug\net5.0\Convert Number to Corresponding Month Name.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Edabit\Convert Number to Corresponding Month Name\obj\Debug\net5.0\Convert Number to Corresponding Month Name.dll
+C:\Users\omere\Desktop\Edabit\Convert Number to Corresponding Month Name\obj\Debug\net5.0\ref\Convert Number to Corresponding Month Name.dll
+C:\Users\omere\Desktop\Edabit\Convert Number to Corresponding Month Name\obj\Debug\net5.0\Convert Number to Corresponding Month Name.pdb
+C:\Users\omere\Desktop\Edabit\Convert Number to Corresponding Month Name\obj\Debug\net5.0\Convert Number to Corresponding Month Name.genruntimeconfig.cache
