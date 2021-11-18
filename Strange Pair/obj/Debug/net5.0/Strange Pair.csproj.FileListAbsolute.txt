@@ -1,0 +1,5 @@
+C:\Users\omere\OneDrive\Masaüstü\Edabit\Strange Pair\obj\Debug\net5.0\Strange Pair.csproj.AssemblyReference.cache
+C:\Users\omere\OneDrive\Masaüstü\Edabit\Strange Pair\obj\Debug\net5.0\Strange Pair.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\OneDrive\Masaüstü\Edabit\Strange Pair\obj\Debug\net5.0\Strange Pair.AssemblyInfoInputs.cache
+C:\Users\omere\OneDrive\Masaüstü\Edabit\Strange Pair\obj\Debug\net5.0\Strange Pair.AssemblyInfo.cs
+C:\Users\omere\OneDrive\Masaüstü\Edabit\Strange Pair\obj\Debug\net5.0\Strange Pair.csproj.CoreCompileInputs.cache

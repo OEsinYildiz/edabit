@@ -1,0 +1,15 @@
+C:\Users\omere\OneDrive\Masaüstü\Edabit\Strange Pair\bin\Debug\net6.0\Strange Pair.exe
+C:\Users\omere\OneDrive\Masaüstü\Edabit\Strange Pair\bin\Debug\net6.0\Strange Pair.deps.json
+C:\Users\omere\OneDrive\Masaüstü\Edabit\Strange Pair\bin\Debug\net6.0\Strange Pair.runtimeconfig.json
+C:\Users\omere\OneDrive\Masaüstü\Edabit\Strange Pair\bin\Debug\net6.0\Strange Pair.dll
+C:\Users\omere\OneDrive\Masaüstü\Edabit\Strange Pair\bin\Debug\net6.0\ref\Strange Pair.dll
+C:\Users\omere\OneDrive\Masaüstü\Edabit\Strange Pair\bin\Debug\net6.0\Strange Pair.pdb
+C:\Users\omere\OneDrive\Masaüstü\Edabit\Strange Pair\obj\Debug\net6.0\Strange Pair.csproj.AssemblyReference.cache
+C:\Users\omere\OneDrive\Masaüstü\Edabit\Strange Pair\obj\Debug\net6.0\Strange Pair.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\OneDrive\Masaüstü\Edabit\Strange Pair\obj\Debug\net6.0\Strange Pair.AssemblyInfoInputs.cache
+C:\Users\omere\OneDrive\Masaüstü\Edabit\Strange Pair\obj\Debug\net6.0\Strange Pair.AssemblyInfo.cs
+C:\Users\omere\OneDrive\Masaüstü\Edabit\Strange Pair\obj\Debug\net6.0\Strange Pair.csproj.CoreCompileInputs.cache
+C:\Users\omere\OneDrive\Masaüstü\Edabit\Strange Pair\obj\Debug\net6.0\Strange Pair.dll
+C:\Users\omere\OneDrive\Masaüstü\Edabit\Strange Pair\obj\Debug\net6.0\ref\Strange Pair.dll
+C:\Users\omere\OneDrive\Masaüstü\Edabit\Strange Pair\obj\Debug\net6.0\Strange Pair.pdb
+C:\Users\omere\OneDrive\Masaüstü\Edabit\Strange Pair\obj\Debug\net6.0\Strange Pair.genruntimeconfig.cache
