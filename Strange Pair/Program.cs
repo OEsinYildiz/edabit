@@ -13,5 +13,3 @@ bool IsStrangePair(string str1, string str2)
 Console.WriteLine(IsStrangePair("sparkling", "groups"));
 Console.WriteLine(IsStrangePair("bush", "hubris"));
 Console.WriteLine(IsStrangePair("",""));
-
-//Localde oluşturulan branchi ilk olarak remote göndermek
