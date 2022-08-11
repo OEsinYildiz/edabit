@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Cup Swapping/1.0.0": {
+        "runtime": {
+          "Cup Swapping.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cup Swapping/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

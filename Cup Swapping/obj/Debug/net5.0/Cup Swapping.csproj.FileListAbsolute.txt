@@ -1,0 +1,16 @@
+C:\Users\omere\OneDrive\Masaüstü\Edabit\Cup Swapping\bin\Debug\net5.0\Cup Swapping.exe
+C:\Users\omere\OneDrive\Masaüstü\Edabit\Cup Swapping\bin\Debug\net5.0\Cup Swapping.deps.json
+C:\Users\omere\OneDrive\Masaüstü\Edabit\Cup Swapping\bin\Debug\net5.0\Cup Swapping.runtimeconfig.json
+C:\Users\omere\OneDrive\Masaüstü\Edabit\Cup Swapping\bin\Debug\net5.0\Cup Swapping.runtimeconfig.dev.json
+C:\Users\omere\OneDrive\Masaüstü\Edabit\Cup Swapping\bin\Debug\net5.0\Cup Swapping.dll
+C:\Users\omere\OneDrive\Masaüstü\Edabit\Cup Swapping\bin\Debug\net5.0\ref\Cup Swapping.dll
+C:\Users\omere\OneDrive\Masaüstü\Edabit\Cup Swapping\bin\Debug\net5.0\Cup Swapping.pdb
+C:\Users\omere\OneDrive\Masaüstü\Edabit\Cup Swapping\obj\Debug\net5.0\Cup Swapping.csproj.AssemblyReference.cache
+C:\Users\omere\OneDrive\Masaüstü\Edabit\Cup Swapping\obj\Debug\net5.0\Cup Swapping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\OneDrive\Masaüstü\Edabit\Cup Swapping\obj\Debug\net5.0\Cup Swapping.AssemblyInfoInputs.cache
+C:\Users\omere\OneDrive\Masaüstü\Edabit\Cup Swapping\obj\Debug\net5.0\Cup Swapping.AssemblyInfo.cs
+C:\Users\omere\OneDrive\Masaüstü\Edabit\Cup Swapping\obj\Debug\net5.0\Cup Swapping.csproj.CoreCompileInputs.cache
+C:\Users\omere\OneDrive\Masaüstü\Edabit\Cup Swapping\obj\Debug\net5.0\Cup Swapping.dll
+C:\Users\omere\OneDrive\Masaüstü\Edabit\Cup Swapping\obj\Debug\net5.0\ref\Cup Swapping.dll
+C:\Users\omere\OneDrive\Masaüstü\Edabit\Cup Swapping\obj\Debug\net5.0\Cup Swapping.pdb
+C:\Users\omere\OneDrive\Masaüstü\Edabit\Cup Swapping\obj\Debug\net5.0\Cup Swapping.genruntimeconfig.cache

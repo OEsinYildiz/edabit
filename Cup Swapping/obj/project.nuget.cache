@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "REPlk/vEx2Wh073pkqUSyMWGfmUy1TDdes/eKBKTzN6RA3rzVEYtmg4CYMd1oyxm+zupztdCRfHZt5GxBD0uZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omere\\OneDrive\\Masaüstü\\Edabit\\Cup Swapping\\Cup Swapping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omere\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
